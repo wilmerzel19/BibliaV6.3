@@ -1,0 +1,44 @@
+{
+  "libro": "salmos",
+  "capitulo": 99,
+  "titulo": "Salmos 99",
+  "subtitulo": "Fidelidad de Jehová para con Israel",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Jehová reina; temblarán los pueblos.El está sentado sobre los querubines, se conmoverá la tierra."
+    },
+    {
+      "numero": "2",
+      "texto": "Jehová en Sion es grande,Y exaltado sobre todos los pueblos."
+    },
+    {
+      "numero": "3",
+      "texto": "Alaben tu nombre grande y temible;El es santo."
+    },
+    {
+      "numero": "4",
+      "texto": "Y la gloria del rey ama el juicio;Tú confirmas la rectitud;Tú has hecho en Jacob juicio y justicia."
+    },
+    {
+      "numero": "5",
+      "texto": "Exaltad a Jehová nuestro Dios,Y postraos ante el estrado de sus pies;El es santo."
+    },
+    {
+      "numero": "6",
+      "texto": "Moisés y Aarón entre sus sacerdotes,Y Samuel entre los que invocaron su nombre;Invocaban a Jehová, y él les respondía."
+    },
+    {
+      "numero": "7",
+      "texto": "En columna de nube hablaba con ellos;Guardaban sus testimonios, y el estatuto que les había dado."
+    },
+    {
+      "numero": "8",
+      "texto": "Jehová Dios nuestro, tú les respondías;Les fuiste un Dios perdonador,Y retribuidor de sus obras."
+    },
+    {
+      "numero": "9",
+      "texto": "Exaltad a Jehová nuestro Dios,Y postraos ante su santo monte,Porque Jehová nuestro Dios es santo."
+    }
+  ]
+}

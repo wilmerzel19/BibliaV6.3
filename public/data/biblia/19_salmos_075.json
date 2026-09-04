@@ -1,0 +1,48 @@
+{
+  "libro": "salmos",
+  "capitulo": 75,
+  "titulo": "Salmos 75",
+  "subtitulo": "Dios abate al malo y exalta al justo",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Gracias te damos, oh Dios, gracias te damos,Pues cercano está tu nombre;Los hombres cuentan tus maravillas."
+    },
+    {
+      "numero": "2",
+      "texto": "Al tiempo que señalaréYo juzgaré rectamente."
+    },
+    {
+      "numero": "3",
+      "texto": "Se arruinaban la tierra y sus moradores;Yo sostengo sus columnas. Selah"
+    },
+    {
+      "numero": "4",
+      "texto": "Dije a los insensatos: No os infatuéis;Y a los impíos: No os enorgullezcáis;"
+    },
+    {
+      "numero": "5",
+      "texto": "No hagáis alarde de vuestro poder;No habléis con cerviz erguida."
+    },
+    {
+      "numero": "6",
+      "texto": "Porque ni de oriente ni de occidente,Ni del desierto viene el enaltecimiento."
+    },
+    {
+      "numero": "7",
+      "texto": "Mas Dios es el juez;A éste humilla, y a aquél enaltece."
+    },
+    {
+      "numero": "8",
+      "texto": "Porque el cáliz está en la mano de Jehová, y el vino está fermentado,Lleno de mistura; y él derrama del mismo;Hasta el fondo lo apurarán, y lo beberán todos los impíos de la tierra."
+    },
+    {
+      "numero": "9",
+      "texto": "Pero yo siempre anunciaréY cantaré alabanzas al Dios de Jacob."
+    },
+    {
+      "numero": "10",
+      "texto": "Quebrantaré todo el poderío de los pecadores,Pero el poder del justo será exaltado."
+    }
+  ]
+}

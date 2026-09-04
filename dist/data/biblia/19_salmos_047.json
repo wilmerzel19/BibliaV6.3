@@ -1,0 +1,48 @@
+{
+  "libro": "salmos",
+  "capitulo": 47,
+  "titulo": "Salmos 47",
+  "subtitulo": "Dios, el Rey de toda la tierra",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Pueblos todos, batid las manos;Aclamad a Dios con voz de júbilo."
+    },
+    {
+      "numero": "2",
+      "texto": "Porque Jehová el Altísimo es temible;Rey grande sobre toda la tierra."
+    },
+    {
+      "numero": "3",
+      "texto": "El someterá a los pueblos debajo de nosotros,Y a las naciones debajo de nuestros pies."
+    },
+    {
+      "numero": "4",
+      "texto": "El nos elegirá nuestras heredades;La hermosura de Jacob, al cual amó. Selah"
+    },
+    {
+      "numero": "5",
+      "texto": "Subió Dios con júbilo,Jehová con sonido de trompeta."
+    },
+    {
+      "numero": "6",
+      "texto": "Cantad a Dios, cantad;Cantad a nuestro Rey, cantad;"
+    },
+    {
+      "numero": "7",
+      "texto": "Porque Dios es el Rey de toda la tierra;Cantad con inteligencia."
+    },
+    {
+      "numero": "8",
+      "texto": "Reinó Dios sobre las naciones;Se sentó Dios sobre su santo trono."
+    },
+    {
+      "numero": "9",
+      "texto": "Los príncipes de los pueblos se reunieronComo pueblo del Dios de Abraham;"
+    },
+    {
+      "numero": "10",
+      "texto": "Porque de Dios son los escudos de la tierra;El es muy exaltado."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "libro": "salmos",
+  "capitulo": 121,
+  "titulo": "Salmos 121",
+  "subtitulo": "Jehová es tu guardador",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Alzaré mis ojos a los montes;¿De dónde vendrá mi socorro?"
+    },
+    {
+      "numero": "2",
+      "texto": "Mi socorro viene de Jehová,Que hizo los cielos y la tierra."
+    },
+    {
+      "numero": "3",
+      "texto": "No dará tu pie al resbaladero,Ni se dormirá el que te guarda."
+    },
+    {
+      "numero": "4",
+      "texto": "He aquí, no se adormecerá ni dormiráEl que guarda a Israel."
+    },
+    {
+      "numero": "5",
+      "texto": "Jehová es tu guardador;Jehová es tu sombra a tu mano derecha."
+    },
+    {
+      "numero": "6",
+      "texto": "El sol no te fatigará de día,Ni la luna de noche."
+    },
+    {
+      "numero": "7",
+      "texto": "Jehová te guardará de todo mal;El guardará tu alma."
+    },
+    {
+      "numero": "8",
+      "texto": "Jehová guardará tu salida y tu entradaDesde ahora y para siempre."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "libro": "salmos",
+  "capitulo": 117,
+  "titulo": "Salmos 117",
+  "subtitulo": "Alabanza por la misericordia de Jehová",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Alabad a Jehová, naciones todas;Pueblos todos, alabadle."
+    },
+    {
+      "numero": "2",
+      "texto": "Porque ha engrandecido sobre nosotros su misericordia,Y la fidelidad de Jehová es para siempre. Aleluya."
+    }
+  ]
+}

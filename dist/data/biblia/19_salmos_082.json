@@ -1,0 +1,40 @@
+{
+  "libro": "salmos",
+  "capitulo": 82,
+  "titulo": "Salmos 82",
+  "subtitulo": "Amonestación contra los juicios injustos",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Dios está en la reunión de los dioses;En medio de los dioses juzga."
+    },
+    {
+      "numero": "2",
+      "texto": "¿Hasta cuándo juzgaréis injustamente,Y aceptaréis las personas de los impíos? Selah"
+    },
+    {
+      "numero": "3",
+      "texto": "Defended al débil y al huérfano;Haced justicia al afligido y al menesteroso."
+    },
+    {
+      "numero": "4",
+      "texto": "Librad al afligido y al necesitado;Libradlo de mano de los impíos."
+    },
+    {
+      "numero": "5",
+      "texto": "No saben, no entienden,Andan en tinieblas;Tiemblan todos los cimientos de la tierra."
+    },
+    {
+      "numero": "6",
+      "texto": "Yo dije: Vosotros sois dioses,Y todos vosotros hijos del Altísimo;"
+    },
+    {
+      "numero": "7",
+      "texto": "Pero como hombres moriréis,Y como cualquiera de los príncipes caeréis."
+    },
+    {
+      "numero": "8",
+      "texto": "Levántate, oh Dios, juzga la tierra;Porque tú heredarás todas las naciones."
+    }
+  ]
+}

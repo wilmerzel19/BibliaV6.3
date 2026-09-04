@@ -1,0 +1,28 @@
+{
+  "libro": "salmos",
+  "capitulo": 100,
+  "titulo": "Salmos 100",
+  "subtitulo": "Exhortación a la gratitud",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Cantad alegres a Dios, habitantes de toda la tierra."
+    },
+    {
+      "numero": "2",
+      "texto": "Servid a Jehová con alegría;Venid ante su presencia con regocijo."
+    },
+    {
+      "numero": "3",
+      "texto": "Reconoced que Jehová es Dios;El nos hizo, y no nosotros a nosotros mismos;Pueblo suyo somos, y ovejas de su prado."
+    },
+    {
+      "numero": "4",
+      "texto": "Entrad por sus puertas con acción de gracias,Por sus atrios con alabanza;Alabadle, bendecid su nombre."
+    },
+    {
+      "numero": "5",
+      "texto": "Porque Jehová es bueno; para siempre es su misericordia,Y su verdad por todas las generaciones."
+    }
+  ]
+}

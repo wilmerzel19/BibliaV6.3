@@ -1,0 +1,44 @@
+{
+  "libro": "salmos",
+  "capitulo": 20,
+  "titulo": "Salmos 20",
+  "subtitulo": "Oración pidiendo la victoria",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Jehová te oiga en el día de conflicto;El nombre del Dios de Jacob te defienda."
+    },
+    {
+      "numero": "2",
+      "texto": "Te envíe ayuda desde el santuario,Y desde Sion te sostenga."
+    },
+    {
+      "numero": "3",
+      "texto": "Haga memoria de todas tus ofrendas,Y acepte tu holocausto. Selah"
+    },
+    {
+      "numero": "4",
+      "texto": "Te dé conforme al deseo de tu corazón,Y cumpla todo tu consejo."
+    },
+    {
+      "numero": "5",
+      "texto": "Nosotros nos alegraremos en tu salvación,Y alzaremos pendón en el nombre de nuestro Dios;Conceda Jehová todas tus peticiones."
+    },
+    {
+      "numero": "6",
+      "texto": "Ahora conozco que Jehová salva a su ungido;Lo oirá desde sus santos cielosCon la potencia salvadora de su diestra."
+    },
+    {
+      "numero": "7",
+      "texto": "Estos confían en carros, y aquéllos en caballos;Mas nosotros del nombre de Jehová nuestro Dios tendremos memoria."
+    },
+    {
+      "numero": "8",
+      "texto": "Ellos flaquean y caen,Mas nosotros nos levantamos, y estamos en pie."
+    },
+    {
+      "numero": "9",
+      "texto": "Salva, Jehová;Que el Rey nos oiga en el día que lo invoquemos."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "libro": "salmos",
+  "capitulo": 146,
+  "titulo": "Salmos 146",
+  "subtitulo": "Alabanza por la justicia de Dios",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Alaba, oh alma mía, a Jehová."
+    },
+    {
+      "numero": "2",
+      "texto": "Alabaré a Jehová en mi vida;Cantaré salmos a mi Dios mientras viva."
+    },
+    {
+      "numero": "3",
+      "texto": "No confiéis en los príncipes,Ni en hijo de hombre, porque no hay en él salvación."
+    },
+    {
+      "numero": "4",
+      "texto": "Pues sale su aliento, y vuelve a la tierra;En ese mismo día perecen sus pensamientos."
+    },
+    {
+      "numero": "5",
+      "texto": "Bienaventurado aquel cuyo ayudador es el Dios de Jacob,Cuya esperanza está en Jehová su Dios,"
+    },
+    {
+      "numero": "6",
+      "texto": "El cual hizo los cielos y la tierra,El mar, y todo lo que en ellos hay;Que guarda verdad para siempre,"
+    },
+    {
+      "numero": "7",
+      "texto": "Que hace justicia a los agraviados,Que da pan a los hambrientos.Jehová liberta a los cautivos;"
+    },
+    {
+      "numero": "8",
+      "texto": "Jehová abre los ojos a los ciegos;Jehová levanta a los caídos;Jehová ama a los justos."
+    },
+    {
+      "numero": "9",
+      "texto": "Jehová guarda a los extranjeros;Al huérfano y a la viuda sostiene,Y el camino de los impíos trastorna."
+    },
+    {
+      "numero": "10",
+      "texto": "Reinará Jehová para siempre;Tu Dios, oh Sion, de generación en generación. Aleluya."
+    }
+  ]
+}

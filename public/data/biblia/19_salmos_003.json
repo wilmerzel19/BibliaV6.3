@@ -1,0 +1,40 @@
+{
+  "libro": "salmos",
+  "capitulo": 3,
+  "titulo": "Salmos 3",
+  "subtitulo": "Oración matutina de confianza en Dios",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "¡Oh Jehová, cuánto se han multiplicado mis adversarios!Muchos son los que se levantan contra mí."
+    },
+    {
+      "numero": "2",
+      "texto": "Muchos son los que dicen de mí:No hay para él salvación en Dios. Selah"
+    },
+    {
+      "numero": "3",
+      "texto": "Mas tú, Jehová, eres escudo alrededor de mí;Mi gloria, y el que levanta mi cabeza."
+    },
+    {
+      "numero": "4",
+      "texto": "Con mi voz clamé a Jehová,Y él me respondió desde su monte santo. Selah"
+    },
+    {
+      "numero": "5",
+      "texto": "Yo me acosté y dormí,Y desperté, porque Jehová me sustentaba."
+    },
+    {
+      "numero": "6",
+      "texto": "No temeré a diez millares de gente,Que pusieren sitio contra mí."
+    },
+    {
+      "numero": "7",
+      "texto": "Levántate, Jehová; sálvame, Dios mío;Porque tú heriste a todos mis enemigos en la mejilla;Los dientes de los perversos quebrantaste."
+    },
+    {
+      "numero": "8",
+      "texto": "La salvación es de Jehová;Sobre tu pueblo sea tu bendición. Selah"
+    }
+  ]
+}

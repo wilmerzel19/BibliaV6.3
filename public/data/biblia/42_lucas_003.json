@@ -1,0 +1,160 @@
+{
+  "libro": "lucas",
+  "capitulo": 3,
+  "titulo": "Lucas 3",
+  "subtitulo": "Predicación de Juan el Bautista",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "En el año decimoquinto del imperio de Tiberio César, siendo gobernador de Judea Poncio Pilato, y Herodes tetrarca de Galilea, y su hermano Felipe tetrarca de Iturea y de la provincia de Traconite, y Lisanias tetrarca de Abilinia,"
+    },
+    {
+      "numero": "2",
+      "texto": "y siendo sumos sacerdotes Anás y Caifás, vino palabra de Dios a Juan, hijo de Zacarías, en el desierto."
+    },
+    {
+      "numero": "3",
+      "texto": "Y él fue por toda la región contigua al Jordán, predicando el bautismo del arrepentimiento para perdón de pecados,"
+    },
+    {
+      "numero": "4",
+      "texto": "como está escrito en el libro de las palabras del profeta Isaías, que dice:Voz del que clama en el desierto:Preparad el camino del Señor;Enderezad sus sendas."
+    },
+    {
+      "numero": "5",
+      "texto": "Todo valle se rellenará,Y se bajará todo monte y collado;Los caminos torcidos serán enderezados,Y los caminos ásperos allanados;"
+    },
+    {
+      "numero": "6",
+      "texto": "Y verá toda carne la salvación de Dios."
+    },
+    {
+      "numero": "7",
+      "texto": "Y decía a las multitudes que salían para ser bautizadas por él: ¡Oh generación de víboras! ¿Quién os enseñó a huir de la ira venidera?"
+    },
+    {
+      "numero": "8",
+      "texto": "Haced, pues, frutos dignos de arrepentimiento, y no comencéis a decir dentro de vosotros mismos: Tenemos a Abraham por padre; porque os digo que Dios puede levantar hijos a Abraham aun de estas piedras."
+    },
+    {
+      "numero": "9",
+      "texto": "Y ya también el hacha está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto se corta y se echa en el fuego."
+    },
+    {
+      "numero": "10",
+      "texto": "Y la gente le preguntaba, diciendo: Entonces, ¿qué haremos?"
+    },
+    {
+      "numero": "11",
+      "texto": "Y respondiendo, les dijo: El que tiene dos túnicas, dé al que no tiene; y el que tiene qué comer, haga lo mismo."
+    },
+    {
+      "numero": "12",
+      "texto": "Vinieron también unos publicanos para ser bautizados, y le dijeron: Maestro, ¿qué haremos?"
+    },
+    {
+      "numero": "13",
+      "texto": "El les dijo: No exijáis más de lo que os está ordenado."
+    },
+    {
+      "numero": "14",
+      "texto": "También le preguntaron unos soldados, diciendo: Y nosotros, ¿qué haremos? Y les dijo: No hagáis extorsión a nadie, ni calumniéis; y contentaos con vuestro salario."
+    },
+    {
+      "numero": "15",
+      "texto": "Como el pueblo estaba en expectativa, preguntándose todos en sus corazones si acaso Juan sería el Cristo,"
+    },
+    {
+      "numero": "16",
+      "texto": "respondió Juan, diciendo a todos: Yo a la verdad os bautizo en agua; pero viene uno más poderoso que yo, de quien no soy digno de desatar la correa de su calzado; él os bautizará en Espíritu Santo y fuego."
+    },
+    {
+      "numero": "17",
+      "texto": "Su aventador está en su mano, y limpiará su era, y recogerá el trigo en su granero, y quemará la paja en fuego que nunca se apagará."
+    },
+    {
+      "numero": "18",
+      "texto": "Con estas y otras muchas exhortaciones anunciaba las buenas nuevas al pueblo."
+    },
+    {
+      "numero": "19",
+      "texto": "Entonces Herodes el tetrarca, siendo reprendido por Juan a causa de Herodías, mujer de Felipe su hermano, y de todas las maldades que Herodes había hecho,"
+    },
+    {
+      "numero": "20",
+      "texto": "sobre todas ellas, añadió además esta: encerró a Juan en la cárcel."
+    },
+    {
+      "numero": "21",
+      "texto": "Aconteció que cuando todo el pueblo se bautizaba, también Jesús fue bautizado; y orando, el cielo se abrió,"
+    },
+    {
+      "numero": "22",
+      "texto": "y descendió el Espíritu Santo sobre él en forma corporal, como paloma, y vino una voz del cielo que decía: Tú eres mi Hijo amado; en ti tengo complacencia."
+    },
+    {
+      "numero": "23",
+      "texto": "Jesús mismo al comenzar su ministerio era como de treinta años, hijo, según se creía, de José, hijo de Elí,"
+    },
+    {
+      "numero": "24",
+      "texto": "hijo de Matat, hijo de Leví, hijo de Melqui, hijo de Jana, hijo de José,"
+    },
+    {
+      "numero": "25",
+      "texto": "hijo de Matatías, hijo de Amós, hijo de Nahum, hijo de Esli, hijo de Nagai,"
+    },
+    {
+      "numero": "26",
+      "texto": "hijo de Maat, hijo de Matatías, hijo de Semei, hijo de José, hijo de Judá,"
+    },
+    {
+      "numero": "27",
+      "texto": "hijo de Joana, hijo de Resa, hijo de Zorobabel, hijo de Salatiel, hijo de Neri,"
+    },
+    {
+      "numero": "28",
+      "texto": "hijo de Melqui, hijo de Adi, hijo de Cosam, hijo de Elmodam, hijo de Er,"
+    },
+    {
+      "numero": "29",
+      "texto": "hijo de Josué, hijo de Eliezer, hijo de Jorim, hijo de Matat,"
+    },
+    {
+      "numero": "30",
+      "texto": "hijo de Leví, hijo de Simeón, hijo de Judá, hijo de José, hijo de Jonán, hijo de Eliaquim,"
+    },
+    {
+      "numero": "31",
+      "texto": "hijo de Melea, hijo de Mainán, hijo de Matata, hijo de Natán,"
+    },
+    {
+      "numero": "32",
+      "texto": "hijo de David, hijo de Isaí, hijo de Obed, hijo de Booz, hijo de Salmón, hijo de Naasón,"
+    },
+    {
+      "numero": "33",
+      "texto": "hijo de Aminadab, hijo de Aram, hijo de Esrom, hijo de Fares, hijo de Judá,"
+    },
+    {
+      "numero": "34",
+      "texto": "hijo de Jacob, hijo de Isaac, hijo de Abraham, hijo de Taré, hijo de Nacor,"
+    },
+    {
+      "numero": "35",
+      "texto": "hijo de Serug, hijo de Ragau, hijo de Peleg, hijo de Heber, hijo de Sala,"
+    },
+    {
+      "numero": "36",
+      "texto": "hijo de Cainán, hijo de Arfaxad, hijo de Sem, hijo de Noé, hijo de Lamec,"
+    },
+    {
+      "numero": "37",
+      "texto": "hijo de Matusalén, hijo de Enoc, hijo de Jared, hijo de Mahalaleel, hijo de Cainán,"
+    },
+    {
+      "numero": "38",
+      "texto": "hijo de Enós, hijo de Set, hijo de Adán, hijo de Dios."
+    }
+  ]
+}

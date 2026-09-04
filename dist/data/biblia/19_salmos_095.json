@@ -1,0 +1,52 @@
+{
+  "libro": "salmos",
+  "capitulo": 95,
+  "titulo": "Salmos 95",
+  "subtitulo": "Cántico de alabanza y de adoración",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Venid, aclamemos alegremente a Jehová;Cantemos con júbilo a la roca de nuestra salvación."
+    },
+    {
+      "numero": "2",
+      "texto": "Lleguemos ante su presencia con alabanza;Aclamémosle con cánticos."
+    },
+    {
+      "numero": "3",
+      "texto": "Porque Jehová es Dios grande,Y Rey grande sobre todos los dioses."
+    },
+    {
+      "numero": "4",
+      "texto": "Porque en su mano están las profundidades de la tierra,Y las alturas de los montes son suyas."
+    },
+    {
+      "numero": "5",
+      "texto": "Suyo también el mar, pues él lo hizo;Y sus manos formaron la tierra seca."
+    },
+    {
+      "numero": "6",
+      "texto": "Venid, adoremos y postrémonos;Arrodillémonos delante de Jehová nuestro Hacedor."
+    },
+    {
+      "numero": "7",
+      "texto": "Porque él es nuestro Dios;Nosotros el pueblo de su prado, y ovejas de su mano.Si oyereis hoy su voz,"
+    },
+    {
+      "numero": "8",
+      "texto": "No endurezcáis vuestro corazón, como en Meriba,Como en el día de Masah en el desierto,"
+    },
+    {
+      "numero": "9",
+      "texto": "Donde me tentaron vuestros padres,Me probaron,  y vieron mis obras."
+    },
+    {
+      "numero": "10",
+      "texto": "Cuarenta años estuve disgustado con la nación,Y dije: Pueblo es que divaga de corazón,Y no han conocido mis caminos."
+    },
+    {
+      "numero": "11",
+      "texto": "Por tanto, juré en mi furorQue no entrarían en mi reposo."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "libro": "salmos",
+  "capitulo": 131,
+  "titulo": "Salmos 131",
+  "subtitulo": "Confiando en Dios como un niño",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Jehová, no se ha envanecido mi corazón, ni mis ojos se enaltecieron;Ni anduve en grandezas,Ni en cosas demasiado sublimes para mí."
+    },
+    {
+      "numero": "2",
+      "texto": "En verdad que me he comportado y he acallado mi almaComo un niño destetado de su madre;Como un niño destetado está mi alma."
+    },
+    {
+      "numero": "3",
+      "texto": "Espera, oh Israel, en Jehová,Desde ahora y para siempre."
+    }
+  ]
+}

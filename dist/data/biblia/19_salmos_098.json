@@ -1,0 +1,44 @@
+{
+  "libro": "salmos",
+  "capitulo": 98,
+  "titulo": "Salmos 98",
+  "subtitulo": "Alabanza por la justicia de Dios",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Cantad a Jehová cántico nuevo,Porque ha hecho maravillas;Su diestra lo ha salvado, y su santo brazo."
+    },
+    {
+      "numero": "2",
+      "texto": "Jehová ha hecho notoria su salvación;A vista de las naciones ha descubierto su justicia."
+    },
+    {
+      "numero": "3",
+      "texto": "Se ha acordado de su misericordia y de su verdad para con la casa de Israel;Todos los términos de la tierra han visto la salvación de nuestro Dios."
+    },
+    {
+      "numero": "4",
+      "texto": "Cantad alegres a Jehová, toda la tierra;Levantad la voz, y aplaudid, y cantad salmos."
+    },
+    {
+      "numero": "5",
+      "texto": "Cantad salmos a Jehová con arpa;Con arpa y voz de cántico."
+    },
+    {
+      "numero": "6",
+      "texto": "Aclamad con trompetas y sonidos de bocina,Delante del rey Jehová."
+    },
+    {
+      "numero": "7",
+      "texto": "Brame el mar y su plenitud,El mundo y los que en él habitan;"
+    },
+    {
+      "numero": "8",
+      "texto": "Los ríos batan las manos,Los montes todos hagan regocijo"
+    },
+    {
+      "numero": "9",
+      "texto": "Delante de Jehová, porque vino a juzgar la tierra.Juzgará al mundo con justicia,Y a los pueblos con rectitud."
+    }
+  ]
+}

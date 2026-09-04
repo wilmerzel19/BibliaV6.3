@@ -1,0 +1,72 @@
+{
+  "libro": "tito",
+  "capitulo": 1,
+  "titulo": "Tito 1",
+  "subtitulo": "Salutación",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y el conocimiento de la verdad que es según la piedad,"
+    },
+    {
+      "numero": "2",
+      "texto": "en la esperanza de la vida eterna, la cual Dios, que no miente, prometió desde antes del principio de los siglos,"
+    },
+    {
+      "numero": "3",
+      "texto": "y a su debido tiempo manifestó su palabra por medio de la predicación que me fue encomendada por mandato de Dios nuestro Salvador,"
+    },
+    {
+      "numero": "4",
+      "texto": "a Tito, verdadero hijo en la común fe: Gracia, misericordia y paz, de Dios Padre y del Señor Jesucristo nuestro Salvador."
+    },
+    {
+      "numero": "5",
+      "texto": "Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y establecieses ancianos en cada ciudad, así como yo te mandé;"
+    },
+    {
+      "numero": "6",
+      "texto": "el que fuere irreprensible, marido de una sola mujer, y tenga hijos creyentes que no estén acusados de disolución ni de rebeldía."
+    },
+    {
+      "numero": "7",
+      "texto": "Porque es necesario que el obispo sea irreprensible, como administrador de Dios; no soberbio, no iracundo, no dado al vino, no pendenciero, no codicioso de ganancias deshonestas,"
+    },
+    {
+      "numero": "8",
+      "texto": "sino hospedador, amante de lo bueno, sobrio, justo, santo, dueño de sí mismo,"
+    },
+    {
+      "numero": "9",
+      "texto": "retenedor de la palabra fiel tal como ha sido enseñada, para que también pueda exhortar con sana enseñanza y convencer a los que contradicen."
+    },
+    {
+      "numero": "10",
+      "texto": "Porque hay aún muchos contumaces, habladores de vanidades y engañadores, mayormente los de la circuncisión,"
+    },
+    {
+      "numero": "11",
+      "texto": "a los cuales es preciso tapar la boca; que trastornan casas enteras, enseñando por ganancia deshonesta lo que no conviene."
+    },
+    {
+      "numero": "12",
+      "texto": "Uno de ellos, su propio profeta, dijo: Los cretenses, siempre mentirosos, malas bestias, glotones ociosos."
+    },
+    {
+      "numero": "13",
+      "texto": "Este testimonio es verdadero; por tanto, repréndelos duramente, para que sean sanos en la fe,"
+    },
+    {
+      "numero": "14",
+      "texto": "no atendiendo a fábulas judaicas, ni a mandamientos de hombres que se apartan de la verdad."
+    },
+    {
+      "numero": "15",
+      "texto": "Todas las cosas son puras para los puros, mas para los corrompidos e incrédulos nada les es puro; pues hasta su mente y su conciencia están corrompidas."
+    },
+    {
+      "numero": "16",
+      "texto": "Profesan conocer a Dios, pero con los hechos lo niegan, siendo abominables y rebeldes, reprobados en cuanto a toda buena obra."
+    }
+  ]
+}

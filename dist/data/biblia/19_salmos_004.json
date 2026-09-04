@@ -1,0 +1,40 @@
+{
+  "libro": "salmos",
+  "capitulo": 4,
+  "titulo": "Salmos 4",
+  "subtitulo": "Oración vespertina de confianza en Dios",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Respóndeme cuando clamo, oh Dios de mi justicia.Cuando estaba en angustia, tú me hiciste ensanchar;Ten misericordia de mí, y oye mi oración."
+    },
+    {
+      "numero": "2",
+      "texto": "Hijos de los hombres, ¿hasta cuándo volveréis mi honra en infamia,Amaréis la vanidad, y buscaréis la mentira? Selah"
+    },
+    {
+      "numero": "3",
+      "texto": "Sabed, pues, que Jehová ha escogido al piadoso para sí;Jehová oirá cuando yo a él clamare."
+    },
+    {
+      "numero": "4",
+      "texto": "Temblad, y no pequéis;Meditad en vuestro corazón estando en vuestra cama, y callad. Selah"
+    },
+    {
+      "numero": "5",
+      "texto": "Ofreced sacrificios de justicia,Y confiad en Jehová."
+    },
+    {
+      "numero": "6",
+      "texto": "Muchos son los que dicen: ¿Quién nos mostrará el bien?Alza sobre nosotros, oh Jehová, la luz de tu rostro."
+    },
+    {
+      "numero": "7",
+      "texto": "Tú diste alegría a mi corazónMayor que la de ellos cuando abundaba su grano y su mosto."
+    },
+    {
+      "numero": "8",
+      "texto": "En paz me acostaré, y asimismo dormiré;Porque solo tú, Jehová, me haces vivir confiado."
+    }
+  ]
+}

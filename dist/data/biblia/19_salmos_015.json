@@ -1,0 +1,28 @@
+{
+  "libro": "salmos",
+  "capitulo": 15,
+  "titulo": "Salmos 15",
+  "subtitulo": "Los que habitarán en el monte santo de Dios",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Jehová, ¿quién habitará en tu tabernáculo?¿Quién morará en tu monte santo?"
+    },
+    {
+      "numero": "2",
+      "texto": "El que anda en integridad y hace justicia,Y habla verdad en su corazón."
+    },
+    {
+      "numero": "3",
+      "texto": "El que no calumnia con su lengua,Ni hace mal a su prójimo,Ni admite reproche alguno contra su vecino."
+    },
+    {
+      "numero": "4",
+      "texto": "Aquel a cuyos ojos el vil es menospreciado,Pero honra a los que temen a Jehová.El que aun jurando en daño suyo, no por eso cambia;"
+    },
+    {
+      "numero": "5",
+      "texto": "Quien su dinero no dio a usura,Ni contra el inocente admitió cohecho.El que hace estas cosas, no resbalará jamás."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "libro": "salmos",
+  "capitulo": 127,
+  "titulo": "Salmos 127",
+  "subtitulo": "La prosperidad viene de Jehová",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Si Jehová no edificare la casa,En vano trabajan los que la edifican;Si Jehová no guardare la ciudad,En vano vela la guardia."
+    },
+    {
+      "numero": "2",
+      "texto": "Por demás es que os levantéis de madrugada, y vayáis tarde a reposar,Y que comáis pan de dolores;Pues que a su amado dará Dios el sueño."
+    },
+    {
+      "numero": "3",
+      "texto": "He aquí, herencia de Jehová son los hijos;Cosa de estima el fruto del vientre."
+    },
+    {
+      "numero": "4",
+      "texto": "Como saetas en mano del valiente,Así son los hijos habidos en la juventud."
+    },
+    {
+      "numero": "5",
+      "texto": "Bienaventurado el hombre que llenó su aljaba de ellos;No será avergonzadoCuando hablare con los enemigos en la puerta."
+    }
+  ]
+}

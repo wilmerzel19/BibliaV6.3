@@ -1,0 +1,32 @@
+{
+  "libro": "salmos",
+  "capitulo": 150,
+  "titulo": "Salmos 150",
+  "subtitulo": "Exhortación a alabar a Dios con instrumentos de música",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Alabad a Dios en su santuario;Alabadle en la magnificencia de su firmamento."
+    },
+    {
+      "numero": "2",
+      "texto": "Alabadle por sus proezas;Alabadle conforme a la muchedumbre de su grandeza."
+    },
+    {
+      "numero": "3",
+      "texto": "Alabadle a son de bocina;Alabadle con salterio y arpa."
+    },
+    {
+      "numero": "4",
+      "texto": "Alabadle con pandero y danza;Alabadle con cuerdas y flautas."
+    },
+    {
+      "numero": "5",
+      "texto": "Alabadle con címbalos resonantes;Alabadle con címbalos de júbilo."
+    },
+    {
+      "numero": "6",
+      "texto": "Todo lo que respira alabe a JAH. Aleluya"
+    }
+  ]
+}

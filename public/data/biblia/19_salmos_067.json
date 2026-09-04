@@ -1,0 +1,36 @@
+{
+  "libro": "salmos",
+  "capitulo": 67,
+  "titulo": "Salmos 67",
+  "subtitulo": "Exhortación a las naciones, para que alaben a Dios",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Dios tenga misericordia de nosotros, y nos bendiga;Haga resplandecer su rostro sobre nosotros; Selah"
+    },
+    {
+      "numero": "2",
+      "texto": "Para que sea conocido en la tierra tu camino,En todas las naciones tu salvación."
+    },
+    {
+      "numero": "3",
+      "texto": "Te alaben los pueblos, oh Dios;Todos los pueblos te alaben."
+    },
+    {
+      "numero": "4",
+      "texto": "Alégrense y gócense las naciones,Porque juzgarás los pueblos con equidad,Y pastorearás las naciones en la tierra. Selah"
+    },
+    {
+      "numero": "5",
+      "texto": "Te alaben los pueblos, oh Dios;Todos los pueblos te alaben."
+    },
+    {
+      "numero": "6",
+      "texto": "La tierra dará su fruto;Nos bendecirá Dios, el Dios nuestro."
+    },
+    {
+      "numero": "7",
+      "texto": "Bendíganos Dios,Y témanlo todos los términos de la tierra."
+    }
+  ]
+}

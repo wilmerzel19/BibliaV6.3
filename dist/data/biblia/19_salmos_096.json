@@ -1,0 +1,60 @@
+{
+  "libro": "salmos",
+  "capitulo": 96,
+  "titulo": "Salmos 96",
+  "subtitulo": "Cántico de alabanza",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Cantad a Jehová cántico nuevo;Cantad a Jehová, toda la tierra."
+    },
+    {
+      "numero": "2",
+      "texto": "Cantad a Jehová, bendecid su nombre;Anunciad de día en día su salvación."
+    },
+    {
+      "numero": "3",
+      "texto": "Proclamad entre las naciones su gloria,En todos los pueblos sus maravillas."
+    },
+    {
+      "numero": "4",
+      "texto": "Porque grande es Jehová, y digno de suprema alabanza;Temible sobre todos los dioses."
+    },
+    {
+      "numero": "5",
+      "texto": "Porque todos los dioses de los pueblos son ídolos;Pero Jehová hizo los cielos."
+    },
+    {
+      "numero": "6",
+      "texto": "Alabanza y magnificencia delante de él;Poder y gloria en su santuario."
+    },
+    {
+      "numero": "7",
+      "texto": "Tributad a Jehová, oh familias de los pueblos,Dad a Jehová la gloria y el poder."
+    },
+    {
+      "numero": "8",
+      "texto": "Dad a Jehová la honra debida a su nombre;Traed ofrendas, y venid a sus atrios."
+    },
+    {
+      "numero": "9",
+      "texto": "Adorad a Jehová en la hermosura de la santidad;Temed delante de él, toda la tierra."
+    },
+    {
+      "numero": "10",
+      "texto": "Decid entre las naciones: Jehová reina.También afirmó el mundo, no será conmovido;Juzgará a los pueblos en justicia."
+    },
+    {
+      "numero": "11",
+      "texto": "Alégrense los cielos, y gócese la tierra;Brame el mar y su plenitud."
+    },
+    {
+      "numero": "12",
+      "texto": "Regocíjese el campo, y todo lo que en él está;Entonces todos los árboles del bosque rebosarán de contento,"
+    },
+    {
+      "numero": "13",
+      "texto": "Delante de Jehová que vino;Porque vino a juzgar la tierra.Juzgará al mundo con justicia,Y a los pueblos con su verdad."
+    }
+  ]
+}

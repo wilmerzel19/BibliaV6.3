@@ -1,0 +1,104 @@
+{
+  "libro": "josue",
+  "capitulo": 12,
+  "titulo": "Josué 12",
+  "subtitulo": "Reyes derrotados por Moisés",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Estos son los reyes de la tierra que los hijos de Israel derrotaron y cuya tierra poseyeron al otro lado del Jordán hacia donde nace el sol, desde el arroyo de Arnón hasta el monte Hermón, y todo el Arabá al oriente:"
+    },
+    {
+      "numero": "2",
+      "texto": "Sehón rey de los amorreos, que habitaba en Hesbón, y señoreaba desde Aroer, que está a la ribera del arroyo de Arnón, y desde en medio del valle, y la mitad de Galaad, hasta el arroyo de Jaboc, término de los hijos de Amón;"
+    },
+    {
+      "numero": "3",
+      "texto": "y el Arabá hasta el mar de Cineret, al oriente; y hasta el mar del Arabá, el Mar Salado, al oriente, por el camino de Bet-jesimot, y desde el sur al pie de las laderas del Pisga."
+    },
+    {
+      "numero": "4",
+      "texto": "Y el territorio de Og rey de Basán, que había quedado de los refaítas, el cual habitaba en Astarot y en Edrei,"
+    },
+    {
+      "numero": "5",
+      "texto": "y dominaba en el monte Hermón, en Salca, en todo Basán hasta los límites de Gesur y de Maaca, y la mitad de Galaad, territorio de Sehón rey de Hesbón."
+    },
+    {
+      "numero": "6",
+      "texto": "A éstos derrotaron Moisés siervo de Jehová y los hijos de Israel; y Moisés siervo de Jehová dio aquella tierra en posesión a los rubenitas, a los gaditas y a la media tribu de Manasés."
+    },
+    {
+      "numero": "7",
+      "texto": "Y estos son los reyes de la tierra que derrotaron Josué y los hijos de Israel, a este lado del Jordán hacia el occidente, desde Baal-gad en el llano del Líbano hasta el monte de Halac que sube hacia Seir; y Josué dio la tierra en posesión a las tribus de Israel, conforme a su distribución;"
+    },
+    {
+      "numero": "8",
+      "texto": "en las montañas, en los valles, en el Arabá, en las laderas, en el desierto y en el Neguev; el heteo, el amorreo, el cananeo, el ferezeo, el heveo y el jebuseo."
+    },
+    {
+      "numero": "9",
+      "texto": "El rey de Jericó, uno; el rey de Hai, que está al lado de Bet-el, otro;"
+    },
+    {
+      "numero": "10",
+      "texto": "el rey de Jerusalén, otro; el rey de Hebrón, otro;"
+    },
+    {
+      "numero": "11",
+      "texto": "el rey de Jarmut, otro; el rey de Laquis, otro;"
+    },
+    {
+      "numero": "12",
+      "texto": "el rey de Eglón, otro; el rey de Gezer, otro;"
+    },
+    {
+      "numero": "13",
+      "texto": "el rey de Debir, otro; el rey de Geder, otro;"
+    },
+    {
+      "numero": "14",
+      "texto": "el rey de Horma, otro; el rey de Arad, otro;"
+    },
+    {
+      "numero": "15",
+      "texto": "el rey de Libna, otro; el rey de Adulam, otro;"
+    },
+    {
+      "numero": "16",
+      "texto": "el rey de Maceda, otro; el rey de Bet-el, otro;"
+    },
+    {
+      "numero": "17",
+      "texto": "el rey de Tapúa, otro; el rey de Hefer, otro;"
+    },
+    {
+      "numero": "18",
+      "texto": "el rey de Afec, otro; el rey de Sarón, otro;"
+    },
+    {
+      "numero": "19",
+      "texto": "el rey de Madón, otro; el rey de Hazor, otro;"
+    },
+    {
+      "numero": "20",
+      "texto": "el rey de Simron-merón, otro; el rey de Acsaf, otro;"
+    },
+    {
+      "numero": "21",
+      "texto": "el rey de Taanac, otro; el rey de Meguido, otro;"
+    },
+    {
+      "numero": "22",
+      "texto": "el rey de Cedes, otro; el rey de Jocneam del Carmelo, otro;"
+    },
+    {
+      "numero": "23",
+      "texto": "el rey de Dor, de la provincia de Dor, otro; el rey de Goim en Gilgal, otro;"
+    },
+    {
+      "numero": "24",
+      "texto": "el rey de Tirsa, otro; treinta y un reyes por todos."
+    }
+  ]
+}

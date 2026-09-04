@@ -1,0 +1,292 @@
+{
+  "libro": "juan",
+  "capitulo": 6,
+  "titulo": "Juan 6",
+  "subtitulo": "Alimentación de los cinco mil",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Después de esto, Jesús fue al otro lado del mar de Galilea, el de Tiberias."
+    },
+    {
+      "numero": "2",
+      "texto": "Y le seguía gran multitud, porque veían las señales que hacía en los enfermos."
+    },
+    {
+      "numero": "3",
+      "texto": "Entonces subió Jesús a un monte, y se sentó allí con sus discípulos."
+    },
+    {
+      "numero": "4",
+      "texto": "Y estaba cerca la pascua, la fiesta de los judíos."
+    },
+    {
+      "numero": "5",
+      "texto": "Cuando alzó Jesús los ojos, y vio que había venido a él gran multitud, dijo a Felipe: ¿De dónde compraremos pan para que coman éstos?"
+    },
+    {
+      "numero": "6",
+      "texto": "Pero esto decía para probarle; porque él sabía lo que había de hacer."
+    },
+    {
+      "numero": "7",
+      "texto": "Felipe le respondió: Doscientos denarios de pan no bastarían para que cada uno de ellos tomase un poco."
+    },
+    {
+      "numero": "8",
+      "texto": "Uno de sus discípulos, Andrés, hermano de Simón Pedro, le dijo:"
+    },
+    {
+      "numero": "9",
+      "texto": "Aquí está un muchacho, que tiene cinco panes de cebada y dos pececillos; mas ¿qué es esto para tantos?"
+    },
+    {
+      "numero": "10",
+      "texto": "Entonces Jesús dijo: Haced recostar la gente. Y había mucha hierba en aquel lugar; y se recostaron como en número de cinco mil varones."
+    },
+    {
+      "numero": "11",
+      "texto": "Y tomó Jesús aquellos panes, y habiendo dado gracias, los repartió entre los discípulos, y los discípulos entre los que estaban recostados; asimismo de los peces, cuanto querían."
+    },
+    {
+      "numero": "12",
+      "texto": "Y cuando se hubieron saciado, dijo a sus discípulos: Recoged los pedazos que sobraron, para que no se pierda nada."
+    },
+    {
+      "numero": "13",
+      "texto": "Recogieron, pues, y llenaron doce cestas de pedazos, que de los cinco panes de cebada sobraron a los que habían comido."
+    },
+    {
+      "numero": "14",
+      "texto": "Aquellos hombres entonces, viendo la señal que Jesús había hecho, dijeron: Este verdaderamente es el profeta que había de venir al mundo."
+    },
+    {
+      "numero": "15",
+      "texto": "Pero entendiendo Jesús que iban a venir para apoderarse de él y hacerle rey, volvió a retirarse al monte él solo."
+    },
+    {
+      "numero": "16",
+      "texto": "Al anochecer, descendieron sus discípulos al mar,"
+    },
+    {
+      "numero": "17",
+      "texto": "y entrando en una barca, iban cruzando el mar hacia Capernaum. Estaba ya oscuro, y Jesús no había venido a ellos."
+    },
+    {
+      "numero": "18",
+      "texto": "Y se levantaba el mar con un gran viento que soplaba."
+    },
+    {
+      "numero": "19",
+      "texto": "Cuando habían remado como veinticinco o treinta estadios, vieron a Jesús que andaba sobre el mar y se acercaba a la barca; y tuvieron miedo."
+    },
+    {
+      "numero": "20",
+      "texto": "Mas él les dijo: Yo soy; no temáis."
+    },
+    {
+      "numero": "21",
+      "texto": "Ellos entonces con gusto le recibieron en la barca, la cual llegó en seguida a la tierra adonde iban."
+    },
+    {
+      "numero": "22",
+      "texto": "El día siguiente, la gente que estaba al otro lado del mar vio que no había habido allí más que una sola barca, y que Jesús no había entrado en ella con sus discípulos, sino que éstos se habían ido solos."
+    },
+    {
+      "numero": "23",
+      "texto": "Pero otras barcas habían arribado de Tiberias junto al lugar donde habían comido el pan después de haber dado gracias el Señor."
+    },
+    {
+      "numero": "24",
+      "texto": "Cuando vio, pues, la gente que Jesús no estaba allí, ni sus discípulos, entraron en las barcas y fueron a Capernaum, buscando a Jesús."
+    },
+    {
+      "numero": "25",
+      "texto": "Y hallándole al otro lado del mar, le dijeron: Rabí, ¿cuándo llegaste acá?"
+    },
+    {
+      "numero": "26",
+      "texto": "Respondió Jesús y les dijo: De cierto, de cierto os digo que me buscáis, no porque habéis visto las señales, sino porque comisteis el pan y os saciasteis."
+    },
+    {
+      "numero": "27",
+      "texto": "Trabajad, no por la comida que perece, sino por la comida que a vida eterna permanece, la cual el Hijo del Hombre os dará; porque a éste señaló Dios el Padre."
+    },
+    {
+      "numero": "28",
+      "texto": "Entonces le dijeron: ¿Qué debemos hacer para poner en práctica las obras de Dios?"
+    },
+    {
+      "numero": "29",
+      "texto": "Respondió Jesús y les dijo: Esta es la obra de Dios, que creáis en el que él ha enviado."
+    },
+    {
+      "numero": "30",
+      "texto": "Le dijeron entonces: ¿Qué señal, pues, haces tú, para que veamos, y te creamos? ¿Qué obra haces?"
+    },
+    {
+      "numero": "31",
+      "texto": "Nuestros padres comieron el maná en el desierto, como está escrito: Pan del cielo les dio a comer."
+    },
+    {
+      "numero": "32",
+      "texto": "Y Jesús les dijo: De cierto, de cierto os digo: No os dio Moisés el pan del cielo, mas mi Padre os da el verdadero pan del cielo."
+    },
+    {
+      "numero": "33",
+      "texto": "Porque el pan de Dios es aquel que descendió del cielo y da vida al mundo."
+    },
+    {
+      "numero": "34",
+      "texto": "Le dijeron: Señor, danos siempre este pan."
+    },
+    {
+      "numero": "35",
+      "texto": "Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed jamás."
+    },
+    {
+      "numero": "36",
+      "texto": "Mas os he dicho, que aunque me habéis visto, no creéis."
+    },
+    {
+      "numero": "37",
+      "texto": "Todo lo que el Padre me da, vendrá a mí; y al que a mí viene, no le echo fuera."
+    },
+    {
+      "numero": "38",
+      "texto": "Porque he descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió."
+    },
+    {
+      "numero": "39",
+      "texto": "Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no pierda yo nada, sino que lo resucite en el día postrero."
+    },
+    {
+      "numero": "40",
+      "texto": "Y esta es la voluntad del que me ha enviado: Que todo aquel que ve al Hijo, y cree en él, tenga vida eterna; y yo le resucitaré en el día postrero."
+    },
+    {
+      "numero": "41",
+      "texto": "Murmuraban entonces de él los judíos, porque había dicho: Yo soy el pan que descendió del cielo."
+    },
+    {
+      "numero": "42",
+      "texto": "Y decían: ¿No es éste Jesús, el hijo de José, cuyo padre y madre nosotros conocemos? ¿Cómo, pues, dice éste: Del cielo he descendido?"
+    },
+    {
+      "numero": "43",
+      "texto": "Jesús respondió y les dijo: No murmuréis entre vosotros."
+    },
+    {
+      "numero": "44",
+      "texto": "Ninguno puede venir a mí, si el Padre que me envió no le trajere; y yo le resucitaré en el día postrero."
+    },
+    {
+      "numero": "45",
+      "texto": "Escrito está en los profetas: Y serán todos enseñados por Dios. Así que, todo aquel que oyó al Padre, y aprendió de él, viene a mí."
+    },
+    {
+      "numero": "46",
+      "texto": "No que alguno haya visto al Padre, sino aquel que vino de Dios; éste ha visto al Padre."
+    },
+    {
+      "numero": "47",
+      "texto": "De cierto, de cierto os digo: El que cree en mí, tiene vida eterna."
+    },
+    {
+      "numero": "48",
+      "texto": "Yo soy el pan de vida."
+    },
+    {
+      "numero": "49",
+      "texto": "Vuestros padres comieron el maná en el desierto, y murieron."
+    },
+    {
+      "numero": "50",
+      "texto": "Este es el pan que desciende del cielo, para que el que de él come, no muera."
+    },
+    {
+      "numero": "51",
+      "texto": "Yo soy el pan vivo que descendió del cielo; si alguno comiere de este pan, vivirá para siempre; y el pan que yo daré es mi carne, la cual yo daré por la vida del mundo."
+    },
+    {
+      "numero": "52",
+      "texto": "Entonces los judíos contendían entre sí, diciendo: ¿Cómo puede éste darnos a comer su carne?"
+    },
+    {
+      "numero": "53",
+      "texto": "Jesús les dijo: De cierto, de cierto os digo: Si no coméis la carne del Hijo del Hombre, y bebéis su sangre, no tenéis vida en vosotros."
+    },
+    {
+      "numero": "54",
+      "texto": "El que come mi carne y bebe mi sangre, tiene vida eterna; y yo le resucitaré en el día postrero."
+    },
+    {
+      "numero": "55",
+      "texto": "Porque mi carne es verdadera comida, y mi sangre es verdadera bebida."
+    },
+    {
+      "numero": "56",
+      "texto": "El que come mi carne y bebe mi sangre, en mí permanece, y yo en él."
+    },
+    {
+      "numero": "57",
+      "texto": "Como me envió el Padre viviente, y yo vivo por el Padre, asimismo el que me come, él también vivirá por mí."
+    },
+    {
+      "numero": "58",
+      "texto": "Este es el pan que descendió del cielo; no como vuestros padres comieron el maná, y murieron; el que come de este pan, vivirá eternamente."
+    },
+    {
+      "numero": "59",
+      "texto": "Estas cosas dijo en la sinagoga, enseñando en Capernaum."
+    },
+    {
+      "numero": "60",
+      "texto": "Al oirlas, muchos de sus discípulos dijeron: Dura es esta palabra; ¿quién la puede oír?"
+    },
+    {
+      "numero": "61",
+      "texto": "Sabiendo Jesús en sí mismo que sus discípulos murmuraban de esto, les dijo: ¿Esto os ofende?"
+    },
+    {
+      "numero": "62",
+      "texto": "¿Pues qué, si viereis al Hijo del Hombre subir adonde estaba primero?"
+    },
+    {
+      "numero": "63",
+      "texto": "El espíritu es el que da vida; la carne para nada aprovecha; las palabras que yo os he hablado son espíritu y son vida."
+    },
+    {
+      "numero": "64",
+      "texto": "Pero hay algunos de vosotros que no creen. Porque Jesús sabía desde el principio quiénes eran los que no creían, y quién le había de entregar."
+    },
+    {
+      "numero": "65",
+      "texto": "Y dijo: Por eso os he dicho que ninguno puede venir a mí, si no le fuere dado del Padre."
+    },
+    {
+      "numero": "66",
+      "texto": "Desde entonces muchos de sus discípulos volvieron atrás, y ya no andaban con él."
+    },
+    {
+      "numero": "67",
+      "texto": "Dijo entonces Jesús a los doce: ¿Queréis acaso iros también vosotros?"
+    },
+    {
+      "numero": "68",
+      "texto": "Le respondió Simón Pedro: Señor, ¿a quién iremos? Tú tienes palabras de vida eterna."
+    },
+    {
+      "numero": "69",
+      "texto": "Y nosotros hemos creído y conocemos que tú eres el Cristo, el Hijo del Dios viviente."
+    },
+    {
+      "numero": "70",
+      "texto": "Jesús les respondió: ¿No os he escogido yo a vosotros los doce, y uno de vosotros es diablo?"
+    },
+    {
+      "numero": "71",
+      "texto": "Hablaba de Judas Iscariote, hijo de Simón; porque éste era el que le iba a entregar, y era uno de los doce."
+    }
+  ]
+}

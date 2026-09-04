@@ -1,0 +1,36 @@
+{
+  "libro": "salmos",
+  "capitulo": 87,
+  "titulo": "Salmos 87",
+  "subtitulo": "El privilegio de morar en Sion",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Su cimiento está en el monte santo."
+    },
+    {
+      "numero": "2",
+      "texto": "Ama Jehová las puertas de SionMás que todas las moradas de Jacob."
+    },
+    {
+      "numero": "3",
+      "texto": "Cosas gloriosas se han dicho de ti,Ciudad de Dios. Selah"
+    },
+    {
+      "numero": "4",
+      "texto": "Yo me acordaré de Rahab y de Babilonia entre los que me conocen;He aquí Filistea y Tiro, con Etiopía;Este nació allá."
+    },
+    {
+      "numero": "5",
+      "texto": "Y de Sion se dirá: Este y aquél han nacido en ella,Y el Altísimo mismo la establecerá."
+    },
+    {
+      "numero": "6",
+      "texto": "Jehová contará al inscribir a los pueblos:Este nació allí. Selah"
+    },
+    {
+      "numero": "7",
+      "texto": "Y cantores y tañedores en ella dirán:Todas mis fuentes están en ti."
+    }
+  ]
+}

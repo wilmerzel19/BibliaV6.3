@@ -1,0 +1,32 @@
+{
+  "libro": "salmos",
+  "capitulo": 126,
+  "titulo": "Salmos 126",
+  "subtitulo": "Oración por la restauración",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Cuando Jehová hiciere volver la cautividad de Sion,Seremos como los que sueñan."
+    },
+    {
+      "numero": "2",
+      "texto": "Entonces nuestra boca se llenará de risa,Y nuestra lengua de alabanza;Entonces dirán entre las naciones:Grandes cosas ha hecho Jehová con éstos."
+    },
+    {
+      "numero": "3",
+      "texto": "Grandes cosas ha hecho Jehová con nosotros;Estaremos alegres."
+    },
+    {
+      "numero": "4",
+      "texto": "Haz volver nuestra cautividad, oh Jehová,Como los arroyos del Neguev."
+    },
+    {
+      "numero": "5",
+      "texto": "Los que sembraron con lágrimas, con regocijo segarán."
+    },
+    {
+      "numero": "6",
+      "texto": "Irá andando y llorando el que lleva la preciosa semilla;Mas volverá a venir con regocijo, trayendo sus gavillas."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "libro": "salmos",
+  "capitulo": 114,
+  "titulo": "Salmos 114",
+  "subtitulo": "Las maravillas del Exodo",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Cuando salió Israel de Egipto,La casa de Jacob del pueblo extranjero,"
+    },
+    {
+      "numero": "2",
+      "texto": "Judá vino a ser su santuario,E Israel su señorío."
+    },
+    {
+      "numero": "3",
+      "texto": "El mar lo vio, y huyó;El Jordán se volvió atrás."
+    },
+    {
+      "numero": "4",
+      "texto": "Los montes saltaron como carneros,Los collados como corderitos."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Qué tuviste, oh mar, que huiste?¿Y tú, oh Jordán, que te volviste atrás?"
+    },
+    {
+      "numero": "6",
+      "texto": "Oh montes, ¿por qué saltasteis como carneros,Y vosotros, collados, como corderitos?"
+    },
+    {
+      "numero": "7",
+      "texto": "A la presencia de Jehová tiembla la tierra,A la presencia del Dios de Jacob,"
+    },
+    {
+      "numero": "8",
+      "texto": "El cual cambió la peña en estanque de aguas,Y en fuente de aguas la roca."
+    }
+  ]
+}

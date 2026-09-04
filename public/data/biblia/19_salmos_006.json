@@ -1,0 +1,48 @@
+{
+  "libro": "salmos",
+  "capitulo": 6,
+  "titulo": "Salmos 6",
+  "subtitulo": "Oración pidiendo misericordia en tiempo de prueba",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Jehová, no me reprendas en tu enojo,Ni me castigues con tu ira."
+    },
+    {
+      "numero": "2",
+      "texto": "Ten misericordia de mí, oh Jehová, porque estoy enfermo;Sáname, oh Jehová, porque mis huesos se estremecen."
+    },
+    {
+      "numero": "3",
+      "texto": "Mi alma también está muy turbada;Y tú, Jehová, ¿hasta cuándo?"
+    },
+    {
+      "numero": "4",
+      "texto": "Vuélvete, oh Jehová, libra mi alma;Sálvame por tu misericordia."
+    },
+    {
+      "numero": "5",
+      "texto": "Porque en la muerte no hay memoria de ti;En el Seol, ¿quién te alabará?"
+    },
+    {
+      "numero": "6",
+      "texto": "Me he consumido a fuerza de gemir;Todas las noches inundo de llanto mi lecho,Riego mi cama con mis lágrimas."
+    },
+    {
+      "numero": "7",
+      "texto": "Mis ojos están gastados de sufrir;Se han envejecido a causa de todos mis angustiadores."
+    },
+    {
+      "numero": "8",
+      "texto": "Apartaos de mí, todos los hacedores de iniquidad;Porque Jehová ha oído la voz de mi lloro."
+    },
+    {
+      "numero": "9",
+      "texto": "Jehová ha oído mi ruego;Ha recibido Jehová mi oración."
+    },
+    {
+      "numero": "10",
+      "texto": "Se avergonzarán y se turbarán mucho todos mis enemigos;Se volverán y serán avergonzados de repente."
+    }
+  ]
+}

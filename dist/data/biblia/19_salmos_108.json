@@ -1,0 +1,60 @@
+{
+  "libro": "salmos",
+  "capitulo": 108,
+  "titulo": "Salmos 108",
+  "subtitulo": "Petición de ayuda contra el enemigo",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Mi corazón está dispuesto, oh Dios;Cantaré y entonaré salmos; esta es mi gloria."
+    },
+    {
+      "numero": "2",
+      "texto": "Despiértate, salterio y arpa;Despertaré al alba."
+    },
+    {
+      "numero": "3",
+      "texto": "Te alabaré, oh Jehová, entre los pueblos;A ti cantaré salmos entre las naciones."
+    },
+    {
+      "numero": "4",
+      "texto": "Porque más grande que los cielos es tu misericordia,Y hasta los cielos tu verdad."
+    },
+    {
+      "numero": "5",
+      "texto": "Exaltado seas sobre los cielos, oh Dios,Y sobre toda la tierra sea enaltecida tu gloria."
+    },
+    {
+      "numero": "6",
+      "texto": "Para que sean librados tus amados,Salva con tu diestra y respóndeme."
+    },
+    {
+      "numero": "7",
+      "texto": "Dios ha dicho en su santuario: Yo me alegraré;Repartiré a Siquem, y mediré el valle de Sucot."
+    },
+    {
+      "numero": "8",
+      "texto": "Mío es Galaad, mío es Manasés,Y Efraín es la fortaleza de mi cabeza;Judá es mi legislador."
+    },
+    {
+      "numero": "9",
+      "texto": "Moab, la vasija para lavarme;Sobre Edom echaré mi calzado;Me regocijaré sobre Filistea."
+    },
+    {
+      "numero": "10",
+      "texto": "¿Quién me guiará a la ciudad fortificada?¿Quién me guiará hasta Edom?"
+    },
+    {
+      "numero": "11",
+      "texto": "¿No serás tú, oh Dios, que nos habías desechado,Y no salías, oh Dios, con nuestros ejércitos?"
+    },
+    {
+      "numero": "12",
+      "texto": "Danos socorro contra el adversario,Porque vana es la ayuda del hombre."
+    },
+    {
+      "numero": "13",
+      "texto": "En Dios haremos proezas,Y él hollará a nuestros enemigos."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "libro": "salmos",
+  "capitulo": 137,
+  "titulo": "Salmos 137",
+  "subtitulo": "Lamento de los cautivos en Babilonia",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Junto a los ríos de Babilonia,Allí nos sentábamos, y aun llorábamos,Acordándonos de Sion."
+    },
+    {
+      "numero": "2",
+      "texto": "Sobre los sauces en medio de ellaColgamos nuestras arpas."
+    },
+    {
+      "numero": "3",
+      "texto": "Y los que nos habían llevado cautivos nos pedían que cantásemos,Y los que nos habían desolado nos pedían alegría, diciendo:Cantadnos algunos de los cánticos de Sion."
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cómo cantaremos cántico de JehováEn tierra de extraños?"
+    },
+    {
+      "numero": "5",
+      "texto": "Si me olvidare de ti, oh Jerusalén,Pierda mi diestra su destreza."
+    },
+    {
+      "numero": "6",
+      "texto": "Mi lengua se pegue a mi paladar,Si de ti no me acordare;Si no enalteciere a JerusalénComo preferente asunto de mi alegría."
+    },
+    {
+      "numero": "7",
+      "texto": "Oh Jehová, recuerda contra los hijos de Edom el día de Jerusalén,Cuando decían: Arrasadla, arrasadlaHasta los cimientos."
+    },
+    {
+      "numero": "8",
+      "texto": "Hija de Babilonia la desolada,Bienaventurado el que te diere el pagoDe lo que tú nos hiciste."
+    },
+    {
+      "numero": "9",
+      "texto": "Dichoso el que tomare y estrellare tus niñosContra la peña."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "libro": "job",
+  "capitulo": 25,
+  "titulo": "Job 25",
+  "subtitulo": "Bildad niega que el hombre pueda ser justificado delante de Dios",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Respondió Bildad suhita, y dijo:"
+    },
+    {
+      "numero": "2",
+      "texto": "El señorío y el temor están con él;El hace paz en sus alturas."
+    },
+    {
+      "numero": "3",
+      "texto": "¿Tienen sus ejércitos número?¿Sobre quién no está su luz?"
+    },
+    {
+      "numero": "4",
+      "texto": "¿Cómo, pues, se justificará el hombre para con Dios?¿Y cómo será limpio el que nace de mujer?"
+    },
+    {
+      "numero": "5",
+      "texto": "He aquí que ni aun la misma luna será resplandeciente,Ni las estrellas son limpias delante de sus ojos;"
+    },
+    {
+      "numero": "6",
+      "texto": "¿Cuánto menos el hombre, que es un gusano,Y el hijo de hombre, también gusano?"
+    }
+  ]
+}

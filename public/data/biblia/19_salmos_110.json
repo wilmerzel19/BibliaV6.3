@@ -1,0 +1,36 @@
+{
+  "libro": "salmos",
+  "capitulo": 110,
+  "titulo": "Salmos 110",
+  "subtitulo": "Jehová da dominio al rey",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Jehová dijo a mi Señor: Siéntate a mi diestra,Hasta que ponga a tus enemigos por estrado de tus pies."
+    },
+    {
+      "numero": "2",
+      "texto": "Jehová enviará desde Sion la vara de tu poder;Domina en medio de tus enemigos."
+    },
+    {
+      "numero": "3",
+      "texto": "Tu pueblo se te ofrecerá voluntariamente en el día de tu poder,En la hermosura de la santidad.Desde el seno de la auroraTienes tú el rocío de tu juventud."
+    },
+    {
+      "numero": "4",
+      "texto": "Juró Jehová, y no se arrepentirá:Tú eres sacerdote para siempreSegún el orden de Melquisedec."
+    },
+    {
+      "numero": "5",
+      "texto": "El Señor está a tu diestra;Quebrantará a los reyes en el día de su ira."
+    },
+    {
+      "numero": "6",
+      "texto": "Juzgará entre las naciones,Las llenará de cadáveres;Quebrantará las cabezas en muchas tierras."
+    },
+    {
+      "numero": "7",
+      "texto": "Del arroyo beberá en el camino,Por lo cual levantará la cabeza."
+    }
+  ]
+}

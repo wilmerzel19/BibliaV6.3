@@ -1,0 +1,28 @@
+{
+  "libro": "salmos",
+  "capitulo": 70,
+  "titulo": "Salmos 70",
+  "subtitulo": "Súplica por liberación",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Oh Dios, acude a librarme;Apresúrate, oh Dios, a socorrerme."
+    },
+    {
+      "numero": "2",
+      "texto": "Sean avergonzados y confundidosLos que buscan mi vida;Sean vueltos atrás y avergonzadosLos que mi mal desean."
+    },
+    {
+      "numero": "3",
+      "texto": "Sean vueltos atrás, en pago de su afrenta hecha,Los que dicen: ¡Ah! ¡Ah!"
+    },
+    {
+      "numero": "4",
+      "texto": "Gócense y alégrense en ti todos los que te buscan,Y digan siempre los que aman tu salvación:Engrandecido sea Dios."
+    },
+    {
+      "numero": "5",
+      "texto": "Yo estoy afligido y menesteroso;Apresúrate a mí, oh Dios.Ayuda mía y mi libertador eres tú;Oh Jehová, no te detengas."
+    }
+  ]
+}

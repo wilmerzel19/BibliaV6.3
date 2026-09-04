@@ -1,0 +1,52 @@
+{
+  "libro": "salmos",
+  "capitulo": 29,
+  "titulo": "Salmos 29",
+  "subtitulo": "Poder y gloria de Jehová",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Tributad a Jehová, oh hijos de los poderosos,Dad a Jehová la gloria y el poder."
+    },
+    {
+      "numero": "2",
+      "texto": "Dad a Jehová la gloria debida a su nombre;Adorad a Jehová en la hermosura de la santidad."
+    },
+    {
+      "numero": "3",
+      "texto": "Voz de Jehová sobre las aguas;Truena el Dios de gloria,Jehová sobre las muchas aguas."
+    },
+    {
+      "numero": "4",
+      "texto": "Voz de Jehová con potencia;Voz de Jehová con gloria."
+    },
+    {
+      "numero": "5",
+      "texto": "Voz de Jehová que quebranta los cedros;Quebrantó Jehová los cedros del Líbano."
+    },
+    {
+      "numero": "6",
+      "texto": "Los hizo saltar como becerros;Al Líbano y al Sirión como hijos de búfalos."
+    },
+    {
+      "numero": "7",
+      "texto": "Voz de Jehová que derrama llamas de fuego;"
+    },
+    {
+      "numero": "8",
+      "texto": "Voz de Jehová que hace temblar el desierto;Hace temblar Jehová el desierto de Cades."
+    },
+    {
+      "numero": "9",
+      "texto": "Voz de Jehová que desgaja las encinas,Y desnuda los bosques;En su templo todo proclama su gloria."
+    },
+    {
+      "numero": "10",
+      "texto": "Jehová preside en el diluvio,Y se sienta Jehová como rey para siempre."
+    },
+    {
+      "numero": "11",
+      "texto": "Jehová dará poder a su pueblo;Jehová bendecirá a su pueblo con paz."
+    }
+  ]
+}

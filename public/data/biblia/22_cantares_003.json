@@ -1,0 +1,52 @@
+{
+  "libro": "cantares",
+  "capitulo": 3,
+  "titulo": "Cantares 3",
+  "subtitulo": "El ensueño de la esposa",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Por las noches busqué en mi lecho al que ama mi alma;Lo busqué, y no lo hallé."
+    },
+    {
+      "numero": "2",
+      "texto": "Y dije: Me levantaré ahora, y rodearé por la ciudad;Por las calles y por las plazasBuscaré al que ama mi alma;Lo busqué, y no lo hallé"
+    },
+    {
+      "numero": "3",
+      "texto": "Me hallaron los guardas que rondan la ciudad,Y les dije: ¿Habéis visto al que ama mi alma?"
+    },
+    {
+      "numero": "4",
+      "texto": "Apenas hube pasado de ellos un poco,Hallé luego al que ama mi alma;Lo así, y no lo dejé,Hasta que lo metí en casa de mi madre,Y en la cámara de la que me dio a luz."
+    },
+    {
+      "numero": "5",
+      "texto": "Yo os conjuro, oh doncellas de Jerusalén,Por los corzos y por las ciervas del campo,Que no despertéis ni hagáis velar al amor,Hasta que quiera."
+    },
+    {
+      "numero": "6",
+      "texto": "¿Quién es ésta que sube del desierto como columna de humo,Sahumada de mirra y de inciensoY de todo polvo aromático?"
+    },
+    {
+      "numero": "7",
+      "texto": "He aquí es la litera de Salomón;Sesenta valientes la rodean,De los fuertes de Israel."
+    },
+    {
+      "numero": "8",
+      "texto": "Todos ellos tienen espadas, diestros en la guerra;Cada uno su espada sobre su muslo,Por los temores de la noche."
+    },
+    {
+      "numero": "9",
+      "texto": "El rey Salomón se hizo una carrozaDe madera del Líbano."
+    },
+    {
+      "numero": "10",
+      "texto": "Hizo sus columnas de plata,Su respaldo de oro,Su asiento de grana,Su interior recamado de amorPor las doncellas de Jerusalén."
+    },
+    {
+      "numero": "11",
+      "texto": "Salid, oh doncellas de Sion, y ved al rey SalomónCon la corona con que le coronó su madre en el día de su desposorio,Y el día del gozo de su corazón."
+    }
+  ]
+}

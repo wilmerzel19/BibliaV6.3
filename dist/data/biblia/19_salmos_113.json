@@ -1,0 +1,44 @@
+{
+  "libro": "salmos",
+  "capitulo": 113,
+  "titulo": "Salmos 113",
+  "subtitulo": "Dios levanta al pobre",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Alabad, siervos de Jehová,Alabad el nombre de Jehová."
+    },
+    {
+      "numero": "2",
+      "texto": "Sea el nombre de Jehová benditoDesde ahora y para siempre."
+    },
+    {
+      "numero": "3",
+      "texto": "Desde el nacimiento del sol hasta donde se pone,Sea alabado el nombre de Jehová."
+    },
+    {
+      "numero": "4",
+      "texto": "Excelso sobre todas las naciones es Jehová,Sobre los cielos su gloria."
+    },
+    {
+      "numero": "5",
+      "texto": "¿Quién como Jehová nuestro Dios,Que se sienta en las alturas,"
+    },
+    {
+      "numero": "6",
+      "texto": "Que se humilla a mirarEn el cielo y en la tierra?"
+    },
+    {
+      "numero": "7",
+      "texto": "El levanta del polvo al pobre,Y al menesteroso alza del muladar,"
+    },
+    {
+      "numero": "8",
+      "texto": "Para hacerlos sentar con los príncipes,Con los príncipes de su pueblo."
+    },
+    {
+      "numero": "9",
+      "texto": "El hace habitar en familia a la estéril,Que se goza en ser madre de hijos. Aleluya."
+    }
+  ]
+}

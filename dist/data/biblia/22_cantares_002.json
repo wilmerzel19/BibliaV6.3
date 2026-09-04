@@ -1,0 +1,76 @@
+{
+  "libro": "cantares",
+  "capitulo": 2,
+  "titulo": "Cantares 2",
+  "subtitulo": "",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Yo soy la rosa de Sarón,Y el lirio de los valles."
+    },
+    {
+      "numero": "2",
+      "texto": "Como el lirio entre los espinos,Así es mi amiga entre las doncellas."
+    },
+    {
+      "numero": "3",
+      "texto": "Como el manzano entre los árboles silvestres,Así es mi amado entre los jóvenes;Bajo la sombra del deseado me senté,Y su fruto fue dulce a mi paladar."
+    },
+    {
+      "numero": "4",
+      "texto": "Me llevó a la casa del banquete,Y su bandera sobre mí fue amor."
+    },
+    {
+      "numero": "5",
+      "texto": "Sustentadme con pasas, confortadme con manzanas;Porque estoy enferma de amor."
+    },
+    {
+      "numero": "6",
+      "texto": "Su izquierda esté debajo de mi cabeza,Y su derecha me abrace."
+    },
+    {
+      "numero": "7",
+      "texto": "Yo os conjuro, oh doncellas de Jerusalén,Por los corzos y por las ciervas del campo,Que no despertéis ni hagáis velar al amor,Hasta que quiera."
+    },
+    {
+      "numero": "8",
+      "texto": "¡La voz de mi amado! He aquí él vieneSaltando sobre los montes,Brincando sobre los collados."
+    },
+    {
+      "numero": "9",
+      "texto": "Mi amado es semejante al corzo,O al cervatillo. Helo aquí, está tras nuestra pared,Mirando por las ventanas,Atisbando por las celosías."
+    },
+    {
+      "numero": "10",
+      "texto": "Mi amado habló, y me dijo:Levántate, oh amiga mía, hermosa mía, y ven."
+    },
+    {
+      "numero": "11",
+      "texto": "Porque he aquí ha pasado el invierno,Se ha mudado, la lluvia se fue;"
+    },
+    {
+      "numero": "12",
+      "texto": "Se han mostrado las flores en la tierra,El tiempo de la canción ha venido,Y en nuestro país se ha oído la voz de la tórtola."
+    },
+    {
+      "numero": "13",
+      "texto": "La higuera ha echado sus higos,Y las vides en cierne dieron olor;Levántate, oh amiga mía, hermosa mía, y ven."
+    },
+    {
+      "numero": "14",
+      "texto": "Paloma mía, que estás en los agujeros de la peña, en lo escondido de escarpados parajes,Muéstrame tu rostro, hazme oír tu voz;Porque dulce es la voz tuya, y hermoso tu aspecto."
+    },
+    {
+      "numero": "15",
+      "texto": "Cazadnos las zorras, las zorras pequeñas, que echan a perder las viñas;Porque nuestras viñas están en cierne."
+    },
+    {
+      "numero": "16",
+      "texto": "Mi amado es mío, y yo suya;El apacienta entre lirios."
+    },
+    {
+      "numero": "17",
+      "texto": "Hasta que apunte el día, y huyan las sombras,Vuélvete, amado mío; sé semejante al corzo, o como el cervatilloSobre los montes de Beter."
+    }
+  ]
+}

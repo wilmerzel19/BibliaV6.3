@@ -1,0 +1,40 @@
+{
+  "libro": "salmos",
+  "capitulo": 124,
+  "titulo": "Salmos 124",
+  "subtitulo": "Alabanza por haber sido librado de los enemigos",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "A no haber estado Jehová por nosotros,Diga ahora Israel;"
+    },
+    {
+      "numero": "2",
+      "texto": "A no haber estado Jehová por nosotros,Cuando se levantaron contra nosotros los hombres,"
+    },
+    {
+      "numero": "3",
+      "texto": "Vivos nos habrían tragado entonces,Cuando se encendió su furor contra nosotros."
+    },
+    {
+      "numero": "4",
+      "texto": "Entonces nos habrían inundado las aguas;Sobre nuestra alma hubiera pasado el torrente;"
+    },
+    {
+      "numero": "5",
+      "texto": "Hubieran entonces pasado sobre nuestra alma las aguas impetuosas."
+    },
+    {
+      "numero": "6",
+      "texto": "Bendito sea Jehová,Que no nos dio por presa a los dientes de ellos."
+    },
+    {
+      "numero": "7",
+      "texto": "Nuestra alma escapó cual ave del lazo de los cazadores;Se rompió el lazo, y escapamos nosotros."
+    },
+    {
+      "numero": "8",
+      "texto": "Nuestro socorro está en el nombre de Jehová,Que hizo el cielo y la tierra."
+    }
+  ]
+}

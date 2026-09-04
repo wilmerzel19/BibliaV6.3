@@ -1,0 +1,40 @@
+{
+  "libro": "salmos",
+  "capitulo": 12,
+  "titulo": "Salmos 12",
+  "subtitulo": "Oración pidiendo ayuda contra los malos",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Salva, oh Jehová, porque se acabaron los piadosos;Porque han desaparecido los fieles de entre los hijos de los hombres."
+    },
+    {
+      "numero": "2",
+      "texto": "Habla mentira cada uno con su prójimo;Hablan con labios lisonjeros, y con doblez de corazón."
+    },
+    {
+      "numero": "3",
+      "texto": "Jehová destruirá todos los labios lisonjeros,Y la lengua que habla jactanciosamente;"
+    },
+    {
+      "numero": "4",
+      "texto": "A los que han dicho: Por nuestra lengua prevaleceremos;Nuestros labios son nuestros; ¿quién es señor de nosotros?"
+    },
+    {
+      "numero": "5",
+      "texto": "Por la opresión de los pobres, por el gemido de los menesterosos,Ahora me levantaré, dice Jehová;Pondré en salvo al que por ello suspira."
+    },
+    {
+      "numero": "6",
+      "texto": "Las palabras de Jehová son palabras limpias,Como plata refinada en horno de tierra,Purificada siete veces."
+    },
+    {
+      "numero": "7",
+      "texto": "Tú, Jehová, los guardarás;De esta generación los preservarás para siempre."
+    },
+    {
+      "numero": "8",
+      "texto": "Cercando andan los malos,Cuando la vileza es exaltada entre los hijos de los hombres."
+    }
+  ]
+}

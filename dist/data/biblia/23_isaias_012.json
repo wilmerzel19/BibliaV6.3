@@ -1,0 +1,32 @@
+{
+  "libro": "isaias",
+  "capitulo": 12,
+  "titulo": "Isaías 12",
+  "subtitulo": "Cántico de acción de gracias",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "En aquel día dirás: Cantaré a ti, oh Jehová; pues aunque te enojaste contra mí, tu indignación se apartó, y me has consolado."
+    },
+    {
+      "numero": "2",
+      "texto": "He aquí Dios es salvación mía; me aseguraré y no temeré; porque mi fortaleza y mi canción es JAH Jehová, quien ha sido salvación para mí."
+    },
+    {
+      "numero": "3",
+      "texto": "Sacaréis con gozo aguas de las fuentes de la salvación."
+    },
+    {
+      "numero": "4",
+      "texto": "Y diréis en aquel día: Cantad a Jehová, aclamad su nombre, haced célebres en los pueblos sus obras, recordad que su nombre es engrandecido."
+    },
+    {
+      "numero": "5",
+      "texto": "Cantad salmos a Jehová, porque ha hecho cosas magníficas; sea sabido esto por toda la tierra."
+    },
+    {
+      "numero": "6",
+      "texto": "Regocíjate y canta, oh moradora de Sion; porque grande es en medio de ti el Santo de Israel."
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "libro": "numeros",
+  "capitulo": 7,
+  "titulo": "Números 7",
+  "subtitulo": "Ofrendas para la dedicación del altar",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Aconteció que cuando Moisés hubo acabado de levantar el tabernáculo, y lo hubo ungido y santificado, con todos sus utensilios, y asimismo ungido y santificado el altar y todos sus utensilios,"
+    },
+    {
+      "numero": "2",
+      "texto": "entonces los príncipes de Israel, los jefes de las casas de sus padres, los cuales eran los príncipes de las tribus, que estaban sobre los contados, ofrecieron;"
+    },
+    {
+      "numero": "3",
+      "texto": "y trajeron sus ofrendas delante de Jehová, seis carros cubiertos y doce bueyes; por cada dos príncipes un carro, y cada uno un buey, y los ofrecieron delante del tabernáculo."
+    },
+    {
+      "numero": "4",
+      "texto": "Y Jehová habló a Moisés, diciendo:"
+    },
+    {
+      "numero": "5",
+      "texto": "Tómalos de ellos, y serán para el servicio del tabernáculo de reunión; y los darás a los levitas, a cada uno conforme a su ministerio."
+    },
+    {
+      "numero": "6",
+      "texto": "Entonces Moisés recibió los carros y los bueyes, y los dio a los levitas."
+    },
+    {
+      "numero": "7",
+      "texto": "Dos carros y cuatro bueyes dio a los hijos de Gersón, conforme a su ministerio,"
+    },
+    {
+      "numero": "8",
+      "texto": "y a los hijos de Merari dio cuatro carros y ocho bueyes, conforme a su ministerio bajo la mano de Itamar hijo del sacerdote Aarón."
+    },
+    {
+      "numero": "9",
+      "texto": "Pero a los hijos de Coat no les dio, porque llevaban sobre sí en los hombros el servicio del santuario."
+    },
+    {
+      "numero": "10",
+      "texto": "Y los príncipes trajeron ofrendas para la dedicación del altar el día en que fue ungido, ofreciendo los príncipes su ofrenda delante del altar."
+    },
+    {
+      "numero": "11",
+      "texto": "Y Jehová dijo a Moisés: Ofrecerán su ofrenda, un príncipe un día, y otro príncipe otro día, para la dedicación del altar."
+    },
+    {
+      "numero": "12",
+      "texto": "Y el que ofreció su ofrenda el primer día fue Naasón hijo de Aminadab, de la tribu de Judá."
+    },
+    {
+      "numero": "13",
+      "texto": "Su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "14",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "15",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "16",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "17",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Naasón hijo de Aminadab."
+    },
+    {
+      "numero": "18",
+      "texto": "El segundo día ofreció Natanael hijo de Zuar, príncipe de Isacar."
+    },
+    {
+      "numero": "19",
+      "texto": "Ofreció como su ofrenda un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "20",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "21",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "22",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "23",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Natanael hijo de Zuar."
+    },
+    {
+      "numero": "24",
+      "texto": "El tercer día, Eliab hijo de Helón, príncipe de los hijos de Zabulón."
+    },
+    {
+      "numero": "25",
+      "texto": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "26",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "27",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "28",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "29",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Eliab hijo de Helón."
+    },
+    {
+      "numero": "30",
+      "texto": "El cuarto día, Elisur hijo de Sedeur, príncipe de los hijos de Rubén."
+    },
+    {
+      "numero": "31",
+      "texto": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "32",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "33",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "34",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "35",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Elisur hijo de Sedeur."
+    },
+    {
+      "numero": "36",
+      "texto": "El quinto día, Selumiel hijo de Zurisadai, príncipe de los hijos de Simeón."
+    },
+    {
+      "numero": "37",
+      "texto": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "38",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "39",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "40",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "41",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Selumiel hijo de Zurisadai."
+    },
+    {
+      "numero": "42",
+      "texto": "El sexto día, Eliasaf hijo de Deuel, príncipe de los hijos de Gad."
+    },
+    {
+      "numero": "43",
+      "texto": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "44",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "45",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "46",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "47",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Eliasaf hijo de Deuel."
+    },
+    {
+      "numero": "48",
+      "texto": "El séptimo día, el príncipe de los hijos de Efraín, Elisama hijo de Amiud."
+    },
+    {
+      "numero": "49",
+      "texto": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "50",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "51",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "52",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "53",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Elisama hijo de Amiud."
+    },
+    {
+      "numero": "54",
+      "texto": "El octavo día, el príncipe de los hijos de Manasés, Gamaliel hijo de Pedasur."
+    },
+    {
+      "numero": "55",
+      "texto": "Y su ofrenda fue un plato de plata de ciento treinta siclos   de peso, y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "56",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "57",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "58",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "59",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Gamaliel hijo de Pedasur."
+    },
+    {
+      "numero": "60",
+      "texto": "El noveno día, el príncipe de los hijos de Benjamín, Abidán hijo de Gedeoni."
+    },
+    {
+      "numero": "61",
+      "texto": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "62",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "63",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "64",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "65",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Abidán hijo de Gedeoni."
+    },
+    {
+      "numero": "66",
+      "texto": "El décimo día, el príncipe de los hijos de Dan, Ahiezer hijo de Amisadai."
+    },
+    {
+      "numero": "67",
+      "texto": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "68",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "69",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "70",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "71",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Ahiezer hijo de Amisadai."
+    },
+    {
+      "numero": "72",
+      "texto": "El undécimo día, el príncipe de los hijos de Aser, Pagiel hijo de Ocrán."
+    },
+    {
+      "numero": "73",
+      "texto": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "74",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "75",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "76",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "77",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Pagiel hijo de Ocrán."
+    },
+    {
+      "numero": "78",
+      "texto": "El duodécimo día, el príncipe de los hijos de Neftalí, Ahira hijo de Enán."
+    },
+    {
+      "numero": "79",
+      "texto": "Su ofrenda fue un plato de plata de ciento treinta siclos de peso,  y un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para ofrenda;"
+    },
+    {
+      "numero": "80",
+      "texto": "una cuchara de oro de diez siclos,  llena de incienso;"
+    },
+    {
+      "numero": "81",
+      "texto": "un becerro, un carnero, un cordero de un año para holocausto;"
+    },
+    {
+      "numero": "82",
+      "texto": "un macho cabrío para expiación;"
+    },
+    {
+      "numero": "83",
+      "texto": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Ahira hijo de Enán."
+    },
+    {
+      "numero": "84",
+      "texto": "Esta fue la ofrenda que los príncipes de Israel ofrecieron para la dedicación del altar, el día en que fue ungido: doce platos de plata, doce jarros de plata, doce cucharas de oro."
+    },
+    {
+      "numero": "85",
+      "texto": "Cada plato de ciento treinta siclos,  y cada jarro de setenta; toda la plata de la vajilla, dos mil cuatrocientos siclos, al siclo del santuario."
+    },
+    {
+      "numero": "86",
+      "texto": "Las doce cucharas de oro llenas de incienso, de diez siclos   cada cuchara, al siclo del santuario; todo el oro de las cucharas, ciento veinte siclos."
+    },
+    {
+      "numero": "87",
+      "texto": "Todos los bueyes para holocausto, doce becerros; doce los carneros, doce los corderos de un año, con su ofrenda, y doce los machos cabríos para expiación."
+    },
+    {
+      "numero": "88",
+      "texto": "Y todos los bueyes de la ofrenda de paz, veinticuatro novillos, sesenta los carneros, sesenta los machos cabríos, y sesenta los corderos de un año. Esta fue la ofrenda para la dedicación del altar, después que fue ungido."
+    },
+    {
+      "numero": "89",
+      "texto": "Y cuando entraba Moisés en el tabernáculo de reunión, para hablar con Dios, oía la voz que le hablaba de encima del propiciatorio que estaba sobre el arca del testimonio, de entre los dos querubines; y hablaba con él."
+    }
+  ]
+}

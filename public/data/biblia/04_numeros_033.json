@@ -1,0 +1,232 @@
+{
+  "libro": "numeros",
+  "capitulo": 33,
+  "titulo": "Números 33",
+  "subtitulo": "Jornadas de Israel desde Egipto hasta el Jordán",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "Estas son las jornadas de los hijos de Israel, que salieron de la tierra de Egipto por sus ejércitos, bajo el mando de Moisés y Aarón."
+    },
+    {
+      "numero": "2",
+      "texto": "Moisés escribió sus salidas conforme a sus jornadas por mandato de Jehová. Estas, pues, son sus jornadas con arreglo a sus salidas."
+    },
+    {
+      "numero": "3",
+      "texto": "De Ramesés salieron en el mes primero, a los quince días del mes primero; el segundo día de la pascua salieron los hijos de Israel con mano poderosa, a vista de todos los egipcios,"
+    },
+    {
+      "numero": "4",
+      "texto": "mientras enterraban los egipcios a los que Jehová había herido de muerte de entre ellos, a todo primogénito; también había hecho Jehová juicios contra sus dioses."
+    },
+    {
+      "numero": "5",
+      "texto": "Salieron, pues, los hijos de Israel de Ramesés, y acamparon en Sucot."
+    },
+    {
+      "numero": "6",
+      "texto": "Salieron de Sucot y acamparon en Etam, que está al confín del desierto."
+    },
+    {
+      "numero": "7",
+      "texto": "Salieron de Etam y volvieron sobre Pi-hahirot, que está delante de Baal-zefón, y acamparon delante de Migdol."
+    },
+    {
+      "numero": "8",
+      "texto": "Salieron de Pi-hahirot y pasaron por en medio del mar al desierto, y anduvieron tres días de camino por el desierto de Etam, y acamparon en Mara."
+    },
+    {
+      "numero": "9",
+      "texto": "Salieron de Mara y vinieron a Elim, donde había doce fuentes de aguas, y setenta palmeras; y acamparon allí."
+    },
+    {
+      "numero": "10",
+      "texto": "Salieron de Elim y acamparon junto al Mar Rojo."
+    },
+    {
+      "numero": "11",
+      "texto": "Salieron del Mar Rojo y acamparon en el desierto de Sin."
+    },
+    {
+      "numero": "12",
+      "texto": "Salieron del desierto de Sin y acamparon en Dofca."
+    },
+    {
+      "numero": "13",
+      "texto": "Salieron de Dofca y acamparon en Alús."
+    },
+    {
+      "numero": "14",
+      "texto": "Salieron de Alús y acamparon en Refidim, donde el pueblo no tuvo aguas para beber."
+    },
+    {
+      "numero": "15",
+      "texto": "Salieron de Refidim y acamparon en el desierto de Sinaí."
+    },
+    {
+      "numero": "16",
+      "texto": "Salieron del desierto de Sinaí y acamparon en Kibrot-hataava."
+    },
+    {
+      "numero": "17",
+      "texto": "Salieron de Kibrot-hataava y acamparon en Hazerot."
+    },
+    {
+      "numero": "18",
+      "texto": "Salieron de Hazerot y acamparon en Ritma."
+    },
+    {
+      "numero": "19",
+      "texto": "Salieron de Ritma y acamparon en Rimón-peres."
+    },
+    {
+      "numero": "20",
+      "texto": "Salieron de Rimón-peres y acamparon en Libna."
+    },
+    {
+      "numero": "21",
+      "texto": "Salieron de Libna y acamparon en Rissa."
+    },
+    {
+      "numero": "22",
+      "texto": "Salieron de Rissa y acamparon en Ceelata."
+    },
+    {
+      "numero": "23",
+      "texto": "Salieron de Ceelata y acamparon en el monte de Sefer."
+    },
+    {
+      "numero": "24",
+      "texto": "Salieron del monte de Sefer y acamparon en Harada."
+    },
+    {
+      "numero": "25",
+      "texto": "Salieron de Harada y acamparon en Macelot."
+    },
+    {
+      "numero": "26",
+      "texto": "Salieron de Macelot y acamparon en Tahat."
+    },
+    {
+      "numero": "27",
+      "texto": "Salieron de Tahat y acamparon en Tara."
+    },
+    {
+      "numero": "28",
+      "texto": "Salieron de Tara y acamparon en Mitca."
+    },
+    {
+      "numero": "29",
+      "texto": "Salieron de Mitca y acamparon en Hasmona."
+    },
+    {
+      "numero": "30",
+      "texto": "Salieron de Hasmona y acamparon en Moserot."
+    },
+    {
+      "numero": "31",
+      "texto": "Salieron de Moserot y acamparon en Bene-jaacán."
+    },
+    {
+      "numero": "32",
+      "texto": "Salieron de Bene-jaacán y acamparon en el monte de Gidgad."
+    },
+    {
+      "numero": "33",
+      "texto": "Salieron del monte de Gidgad y acamparon en Jotbata."
+    },
+    {
+      "numero": "34",
+      "texto": "Salieron de Jotbata y acamparon en Abrona."
+    },
+    {
+      "numero": "35",
+      "texto": "Salieron de Abrona y acamparon en Ezión-geber."
+    },
+    {
+      "numero": "36",
+      "texto": "Salieron de Ezión-geber y acamparon en el desierto de Zin, que es Cades."
+    },
+    {
+      "numero": "37",
+      "texto": "Y salieron de Cades y acamparon en el monte de Hor, en la extremidad del país de Edom."
+    },
+    {
+      "numero": "38",
+      "texto": "Y subió el sacerdote Aarón al monte de Hor, conforme al dicho de Jehová, y allí murió  a los cuarenta años de la salida de los hijos de Israel de la tierra de Egipto, en el mes quinto, en el primero del mes."
+    },
+    {
+      "numero": "39",
+      "texto": "Era Aarón de edad de ciento veintitrés años, cuando murió en el monte de Hor."
+    },
+    {
+      "numero": "40",
+      "texto": "Y el cananeo, rey de Arad, que habitaba en el Neguev en la tierra de Canaán, oyó que habían venido los hijos de Israel."
+    },
+    {
+      "numero": "41",
+      "texto": "Y salieron del monte de Hor y acamparon en Zalmona."
+    },
+    {
+      "numero": "42",
+      "texto": "Salieron de Zalmona y acamparon en Punón."
+    },
+    {
+      "numero": "43",
+      "texto": "Salieron de Punón y acamparon en Obot."
+    },
+    {
+      "numero": "44",
+      "texto": "Salieron de Obot y acamparon en Ije-abarim, en la frontera de Moab."
+    },
+    {
+      "numero": "45",
+      "texto": "Salieron de Ije-abarim y acamparon en Dibón-gad."
+    },
+    {
+      "numero": "46",
+      "texto": "Salieron de Dibón-gad y acamparon en Almón-diblataim."
+    },
+    {
+      "numero": "47",
+      "texto": "Salieron de Almón-diblataim y acamparon en los montes de Abarim, delante de Nebo."
+    },
+    {
+      "numero": "48",
+      "texto": "Salieron de los montes de Abarim y acamparon en los campos de Moab, junto al Jordán, frente a Jericó."
+    },
+    {
+      "numero": "49",
+      "texto": "Finalmente acamparon junto al Jordán, desde Bet-jesimot hasta Abel-sitim, en los campos de Moab."
+    },
+    {
+      "numero": "50",
+      "texto": "Y habló Jehová a Moisés en los campos de Moab junto al Jordán frente a Jericó, diciendo:"
+    },
+    {
+      "numero": "51",
+      "texto": "Habla a los hijos de Israel, y diles: Cuando hayáis pasado el Jordán entrando en la tierra de Canaán,"
+    },
+    {
+      "numero": "52",
+      "texto": "echaréis de delante de vosotros a todos los moradores del país, y destruiréis todos sus ídolos de piedra, y todas sus imágenes de fundición, y destruiréis todos sus lugares altos;"
+    },
+    {
+      "numero": "53",
+      "texto": "y echaréis a los moradores de la tierra, y habitaréis en ella; porque yo os la he dado para que sea vuestra propiedad."
+    },
+    {
+      "numero": "54",
+      "texto": "Y heredaréis la tierra por sorteo por vuestras familias; a los muchos daréis mucho por herencia, y a los pocos daréis menos por herencia; donde le cayere la suerte, allí la tendrá cada uno; por las tribus de vuestros padres heredaréis."
+    },
+    {
+      "numero": "55",
+      "texto": "Y si no echareis a los moradores del país de delante de vosotros, sucederá que los que dejareis de ellos serán por aguijones en vuestros ojos y por espinas en vuestros costados, y os afligirán sobre la tierra en que vosotros habitareis."
+    },
+    {
+      "numero": "56",
+      "texto": "Además, haré a vosotros como yo pensé hacerles a ellos."
+    }
+  ]
+}

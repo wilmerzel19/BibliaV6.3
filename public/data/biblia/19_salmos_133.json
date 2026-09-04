@@ -1,0 +1,20 @@
+{
+  "libro": "salmos",
+  "capitulo": 133,
+  "titulo": "Salmos 133",
+  "subtitulo": "La bienaventuranza del amor fraternal",
+  "versiculos": [
+    {
+      "numero": "1",
+      "texto": "¡Mirad cuán bueno y cuán delicioso esHabitar los hermanos juntos en armonía!"
+    },
+    {
+      "numero": "2",
+      "texto": "Es como el buen óleo sobre la cabeza,El cual desciende sobre la barba,La barba de Aarón,Y baja hasta el borde de sus vestiduras;"
+    },
+    {
+      "numero": "3",
+      "texto": "Como el rocío de Hermón,Que desciende sobre los montes de Sion;Porque allí envía Jehová bendición,Y vida eterna."
+    }
+  ]
+}
