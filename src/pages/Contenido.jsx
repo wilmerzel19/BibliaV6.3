@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import SearchBox from "../components/SearchBox";
 import EmptyState from "../components/EmptyState";
 import JsonPreview from "../components/JsonPreview";
+import CalendarioLibros from "./CalendarioLibros";
 import { normalizeArray } from "../services/dataService";
 
 const labels = { libros:"Libros", revistas:"Revistas", documentos:"Documentos" };
@@ -14,6 +15,8 @@ export default function Contenido({ data }) {
   const [query, setQuery] = useState("");
   const [selected, setSelected] = useState(null);
   const filtered = items.filter(x => JSON.stringify(x).toLowerCase().includes(query.toLowerCase()));
+
+  if (tipo === "libros") return <CalendarioLibros data={data.libros} />;
 
   if (!items.length) return <EmptyState title={`${labels[tipo] || "Contenido"} vacío`} />;
 
