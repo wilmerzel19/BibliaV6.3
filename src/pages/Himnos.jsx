@@ -28,7 +28,48 @@ function resolverPista(valor) {
   return `/${url}`;
 }
 
-export default function Himnos({ data }) {
+function normalizarTexto(valor) {
+  return String(valor || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[¡!¿?.,;:]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function numeroAudio(titulo) {
+  const match = String(titulo || "").match(/^\s*(\d+)\s*-/);
+  return match ? Number(match[1]) : null;
+}
+
+function tituloAudio(titulo) {
+  return normalizarTexto(String(titulo || "").replace(/^\s*\d+\s*-\s*/, "").replace(/\s*\([^)]*\)\s*$/, ""));
+}
+
+function resolverAudioHimno(himno, audios) {
+  const pistaLocal = resolverPista(himno?.pista);
+  if (!Array.isArray(audios) || !audios.length) return pistaLocal;
+
+  const numero = Number(himno?.numero);
+  if (!Number.isFinite(numero)) return pistaLocal;
+
+  const candidatos = audios.filter((audio) =>
+    numeroAudio(audio?.titulo) === numero && typeof audio?.url_audio === "string" && audio.url_audio.trim()
+  );
+
+  if (!candidatos.length) return pistaLocal;
+
+  const titulo = normalizarTexto(himno?.titulo);
+  const exacto = candidatos.find((audio) => tituloAudio(audio.titulo) === titulo);
+  if (exacto) return exacto.url_audio.trim();
+
+  // Si hay varias versiones (por ejemplo, Mi/Re/La), preferimos la versión sin tonalidad.
+  const sinTonalidad = candidatos.find((audio) => !/\([^)]*\)\s*$/.test(String(audio.titulo || "")));
+  return (sinTonalidad || candidatos[0]).url_audio.trim() || pistaLocal;
+}
+
+export default function Himnos({ data, audios = [] }) {
   /*
    * =====================================================
    * LEER EL JSON
@@ -57,6 +98,14 @@ export default function Himnos({ data }) {
     return [];
   }, [data]);
 
+  const himnosConAudio = useMemo(() =>
+    himnos.map((himno) => ({
+      ...himno,
+      pista: resolverAudioHimno(himno, audios) || himno.pista || ""
+    })),
+    [himnos, audios]
+  );
+
   const [busqueda, setBusqueda] = useState("");
   const [himnoSeleccionado, setHimnoSeleccionado] = useState(null);
   const [presentando, setPresentando] = useState(false);
@@ -82,10 +131,10 @@ export default function Himnos({ data }) {
     const texto = busqueda.trim().toLowerCase();
 
     if (!texto) {
-      return himnos;
+      return himnosConAudio;
     }
 
-    return himnos.filter((himno) => {
+    return himnosConAudio.filter((himno) => {
       const numero = String(himno.numero || "");
       const titulo = String(himno.titulo || "");
       const autor = String(himno.autor || "");
@@ -561,8 +610,6 @@ function LectorHimno({
    * Estrofa 1, CORO (en medio), y luego el resto de las estrofas.
    */
 
-  const primeraEstrofa = estrofas[0] || null;
-  const restoEstrofas = estrofas.slice(1);
 
   const esFavorito = favoritos.includes(himno.id);
 
@@ -625,19 +672,9 @@ function LectorHimno({
     let texto =
       `${numero}. ${titulo}\n\n`;
 
-    if (primeraEstrofa) {
-      texto += `${primeraEstrofa.numero}. ${primeraEstrofa.texto}\n\n`;
-    }
-
-    if (estribillo) {
-      texto += `CORO\n${estribillo}\n\n`;
-    }
-
-    restoEstrofas.forEach((estrofa) => {
-
-      texto +=
-        `${estrofa.numero}. ${estrofa.texto}\n\n`;
-
+    estrofas.forEach((estrofa) => {
+      texto += `${estrofa.numero}. ${estrofa.texto}\n\n`;
+      if (estribillo) texto += `CORO\n${estribillo}\n\n`;
     });
 
     try {
@@ -790,43 +827,6 @@ function LectorHimno({
         {/* CONTENIDO */}
 
         <div className="himno-content">
-
-          {/* ESTROFA 1 */}
-
-          {primeraEstrofa && (
-
-            <section
-              className="estrofa"
-              key={primeraEstrofa.numero}
-            >
-
-              <div className="estrofa-number">
-                {primeraEstrofa.numero}
-              </div>
-
-              <div className="estrofa-body">
-
-                <p>
-                  {primeraEstrofa.texto}
-                </p>
-
-                <button
-                  className="copy-verse"
-                  onClick={() =>
-                    copiarEstrofa(
-                      primeraEstrofa.texto
-                    )
-                  }
-                >
-                  <Copy size={14} />
-                  Copiar estrofa
-                </button>
-
-              </div>
-
-            </section>
-
-          )}
 
           {/* ESTROFAS + CORO: si existe coro, aparece después de CADA estrofa */}
 

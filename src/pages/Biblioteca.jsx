@@ -14,8 +14,11 @@ export default function Biblioteca({ data }) {
           <div className="feature-icon"><Icon/></div>
           <h3>{title}</h3><p>{text}</p>
           <span className="count">{Array.isArray(count) ? count.length : "Disponible"}</span>
+
         </Link>
       ))}
     </div>
   );
+
+  
 }

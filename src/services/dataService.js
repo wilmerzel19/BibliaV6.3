@@ -4,7 +4,9 @@ const DATA_FILES = {
   revistas: "/data/revistas.json",
   estudios: "/data/estudios.json",
   himnos: "/data/himnos.json",
+  audiosHimnos: "/data/audios_himnos.json",
   categorias: "/data/categorias.json",
+  buenasemillas: "/data/buenasemillas.json",
 };
 
 async function loadJson(path) {
@@ -60,3 +62,5 @@ export async function cargarAudios() {
 
   return await respuesta.json();
 }
+
+

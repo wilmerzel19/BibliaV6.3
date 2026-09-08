@@ -115,7 +115,7 @@ export default function App() {
               <Route path="/biblioteca" element={<Biblioteca data={data} />} />
               <Route path="/biblioteca/:tipo" element={<Contenido data={data} />} />
               <Route path="/estudios" element={<Estudios data={data.estudios} />} />
-              <Route path="/himnos" element={<Himnos data={data.himnos} />} />
+              <Route path="/himnos" element={<Himnos data={data.himnos} audios={data.audiosHimnos} />} />
               <Route path="/devocionales" element={<Devocionales data={data.devocionales} />} />
               <Route path="/busqueda" element={<Busqueda data={data} />} />
               <Route path="/favoritos" element={<Favoritos />} />
