@@ -6,7 +6,7 @@ import JsonPreview from "../components/JsonPreview";
 import CalendarioLibros from "./CalendarioLibros";
 import { normalizeArray } from "../services/dataService";
 
-const labels = { libros:"Libros", revistas:"Revistas", documentos:"Documentos" };
+const labels = { libros:"La Buena Semilla", "el-senor-esta-cerca":"El Señor está Cerca", revistas:"Revistas", documentos:"Documentos" };
 
 export default function Contenido({ data }) {
   const { tipo } = useParams();
@@ -16,7 +16,15 @@ export default function Contenido({ data }) {
   const [selected, setSelected] = useState(null);
   const filtered = items.filter(x => JSON.stringify(x).toLowerCase().includes(query.toLowerCase()));
 
-  if (tipo === "libros") return <CalendarioLibros data={data.libros} />;
+  if (tipo === "libros" || tipo === "el-senor-esta-cerca") {
+    return (
+      <CalendarioLibros
+        dataSemilla={data.libros}
+        dataSenor={data.elSenorEstaCerca}
+        tabInicial={tipo === "el-senor-esta-cerca" ? "senor" : "semilla"}
+      />
+    );
+  }
 
   if (!items.length) return <EmptyState title={`${labels[tipo] || "Contenido"} vacío`} />;
 

@@ -64,7 +64,7 @@ export default function App() {
     <div className="app-shell">
       <aside className={`sidebar ${mobileOpen ? "open" : ""}`}>
         <div className="brand">
-          <div className="brand-logo"><BookOpen size={24}/></div>
+          <img src="/public/img/logo.png" alt="Logo" className="brand-logo"/>
           <div>
             <strong>Mi Biblioteca</strong>
             <span>Bíblica</span>

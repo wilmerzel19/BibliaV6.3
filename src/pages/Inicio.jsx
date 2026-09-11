@@ -17,7 +17,7 @@ export default function Inicio({ data }) {
         <div>
           <span className="badge">OFFLINE READY</span>
           <h2>Tu biblioteca bíblica,<br/><em>en un solo lugar.</em></h2>
-          <p>Una base preparada para trabajar con tus propios archivos JSON de Biblia, libros, estudios, himnos y más.</p>
+          <p>Una base preparada para la lectura, estudio y meditación de la Palabra de Dios.</p>
         </div>
         <BookOpen className="hero-icon" size={120}/>
       </section>

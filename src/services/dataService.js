@@ -7,6 +7,7 @@ const DATA_FILES = {
   audiosHimnos: "/data/audios_himnos.json",
   categorias: "/data/categorias.json",
   buenasemillas: "/data/buenasemillas.json",
+  elSenorEstaCerca: "/data/el-senor-esta-cerca.json",
 };
 
 async function loadJson(path) {
